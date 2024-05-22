@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="C4D98767-E60B-A1E7-91A4-5B08D9C9E1C3">
+	<DocumentID>C4D98767-E60B-A1E7-91A4-5B08D9C9A1C3</DocumentID>
+	<Name>C4D98767-E60B-A1E7-91A4-5B08D9C9A1C3</Name>
+	<Description>Baggage Handler Details</Description>
+	<CreatedBy>svtuser</CreatedBy>
+	<CreationDate>2017-06-01T06:16:51.982</CreationDate>
+	<Notes/>
+	<Text>Baggage Handler Details</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="C4D98767-E60B-A1E7-91A4-5B08D9C921C3"
+		/>
+	</TextIdentifier>
+</TranslatedText>

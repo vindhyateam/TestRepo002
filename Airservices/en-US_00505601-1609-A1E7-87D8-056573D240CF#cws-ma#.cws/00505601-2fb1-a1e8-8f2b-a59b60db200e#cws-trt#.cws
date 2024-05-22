@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2fb1-a1e8-8f2b-a59b60e5200e">
+	<DocumentID>00505601-2fb1-a1e8-8f2b-a59b60db200e</DocumentID>
+	<Name>00505601-2fb1-a1e8-8f2b-a59b60db200e</Name>
+	<Description>Payment Details:</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-04-10T11:23:42.603</CreationDate>
+	<Notes/>
+	<Text>Payment Details:</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2fb1-a1e8-8f2b-a59b60c4a00e"
+		/>
+	</TextIdentifier>
+</TranslatedText>

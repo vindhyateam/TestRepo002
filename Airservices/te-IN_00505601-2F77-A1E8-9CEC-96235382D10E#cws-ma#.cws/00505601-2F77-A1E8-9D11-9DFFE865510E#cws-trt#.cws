@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2F77-A1E8-9D11-9DFFE865910E">
+	<DocumentID>00505601-2F77-A1E8-9D11-9DFFE865510E</DocumentID>
+	<Name>00505601-2F77-A1E8-9D11-9DFFE865510E</Name>
+	<Description>ఎయిర్ క్రాఫ్ట్ List</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-06-20T04:59:16.403</CreationDate>
+	<Notes/>
+	<Text>ఎయిర్ క్రాఫ్ట్ List</Text>
+	<Language>
+		<uri
+			id="00505601-2F77-A1E8-9CEC-96235383510E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1609-A1E7-8805-3639516F00CF"
+		/>
+	</TextIdentifier>
+</TranslatedText>

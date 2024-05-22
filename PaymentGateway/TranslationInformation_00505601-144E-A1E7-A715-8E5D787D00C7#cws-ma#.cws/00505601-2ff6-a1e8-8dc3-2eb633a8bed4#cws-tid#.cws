@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-2ff6-a1e8-8dc3-2eb633b53ed4">
+	<DocumentID>00505601-2ff6-a1e8-8dc3-2eb633a8bed4</DocumentID>
+	<Name>00505601-2ff6-a1e8-8dc3-2eb633a8bed4</Name>
+	<Description>Booking Details</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-04-03T07:11:07.566</CreationDate>
+	<Notes/>
+	<DefaultText>Booking Details</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-144E-A1E7-A715-8E5D787C80C7"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-2ff6-a1e8-8dc3-2eb633bf3ed4"
+		/>
+	</Translations>
+</TextIdentifier>

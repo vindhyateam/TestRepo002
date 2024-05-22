@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2fb1-a1e8-8e61-09c30ccbb237">
+	<DocumentID>00505601-2fb1-a1e8-8e61-09c30cc1b237</DocumentID>
+	<Name>00505601-2fb1-a1e8-8e61-09c30cc1b237</Name>
+	<Description>Additional Baggage at 5000 INR per bag.</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-04-06T10:57:28.464</CreationDate>
+	<Notes/>
+	<Text>Additional Baggage at 5000 INR per bag.</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2fb1-a1e8-8e61-09c30cab3237"
+		/>
+	</TextIdentifier>
+</TranslatedText>

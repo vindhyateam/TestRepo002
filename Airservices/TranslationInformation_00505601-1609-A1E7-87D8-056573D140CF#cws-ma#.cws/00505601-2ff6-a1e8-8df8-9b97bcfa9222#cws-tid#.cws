@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-2ff6-a1e8-8df8-9b97bd0c1222">
+	<DocumentID>00505601-2ff6-a1e8-8df8-9b97bcfa9222</DocumentID>
+	<Name>00505601-2ff6-a1e8-8df8-9b97bcfa9222</Name>
+	<Description>Upgrade of Passenger Class</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-04-04T08:31:20.377</CreationDate>
+	<Notes/>
+	<DefaultText>Upgrade of Passenger Class</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-2ff6-a1e8-8df8-9b97bd1d9222"
+		/>
+	</Translations>
+</TextIdentifier>

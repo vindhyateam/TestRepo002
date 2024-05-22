@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-3E3A-A1E9-8985-26DBD0E2510C">
+	<DocumentID>00505601-3E3A-A1E9-8985-26DBD0E2110C</DocumentID>
+	<Name>00505601-3E3A-A1E9-8985-26DBD0E2110C</Name>
+	<Description>AerospaceEngineer</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2019-02-01T11:43:51.042</CreationDate>
+	<Notes/>
+	<Text>AerospaceEngineer</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-3E3A-A1E9-8985-26DBD0E1910C"
+		/>
+	</TextIdentifier>
+</TranslatedText>

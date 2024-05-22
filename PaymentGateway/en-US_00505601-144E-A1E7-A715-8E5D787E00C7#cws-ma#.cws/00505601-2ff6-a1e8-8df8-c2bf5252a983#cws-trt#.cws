@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2ff6-a1e8-8df8-c2bf525f2983">
+	<DocumentID>00505601-2ff6-a1e8-8df8-c2bf5252a983</DocumentID>
+	<Name>00505601-2ff6-a1e8-8df8-c2bf5252a983</Name>
+	<Description>PaymentForBoarding</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-04-04T08:37:35.668</CreationDate>
+	<Notes/>
+	<Text>PaymentForBoarding</Text>
+	<Language>
+		<uri
+			id="00505601-144E-A1E7-A715-8E5D787D80C7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2ff6-a1e8-8df8-c2bf5234a983"
+		/>
+	</TextIdentifier>
+</TranslatedText>

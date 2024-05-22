@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E8-85E6-AE947F3000CD">
+	<DocumentID>00505601-144E-A1E8-85E6-AE947F2FC0CD</DocumentID>
+	<Name>00505601-144E-A1E8-85E6-AE947F2FC0CD</Name>
+	<Description>ReadAirService</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-02-22T06:37:42.837</CreationDate>
+	<Notes/>
+	<Text>ReadAirService</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E8-85E6-AE947F2F40CD"
+		/>
+	</TextIdentifier>
+</TranslatedText>

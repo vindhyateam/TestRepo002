@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-144E-A1E8-896E-0A18345E40CE">
+	<DocumentID>00505601-144E-A1E8-896E-0A18345E00CE</DocumentID>
+	<Name>00505601-144E-A1E8-896E-0A18345E00CE</Name>
+	<Description>Airservice History</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-03-12T06:23:21.499</CreationDate>
+	<Notes/>
+	<DefaultText>Airservice History</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-144E-A1E8-896E-0A18345E80CE"
+		/>
+	</Translations>
+</TextIdentifier>

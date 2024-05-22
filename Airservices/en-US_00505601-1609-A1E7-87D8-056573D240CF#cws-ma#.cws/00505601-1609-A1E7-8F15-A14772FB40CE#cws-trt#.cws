@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1609-A1E7-8F15-A14772FB80CE">
+	<DocumentID>00505601-1609-A1E7-8F15-A14772FB40CE</DocumentID>
+	<Name>00505601-1609-A1E7-8F15-A14772FB40CE</Name>
+	<Description>Calculate ConvertedPrice</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-05-19T05:49:26.664</CreationDate>
+	<Notes/>
+	<Text>Calculate ConvertedPrice</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1609-A1E7-8F15-A14772FAC0CE"
+		/>
+	</TextIdentifier>
+</TranslatedText>

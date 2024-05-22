@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2F73-A1E8-8B95-7A1A2A4EC0CA">
+	<DocumentID>00505601-2F73-A1E8-8B95-7A1A2A4E80CA</DocumentID>
+	<Name>00505601-2F73-A1E8-8B95-7A1A2A4E80CA</Name>
+	<Description>Date of Journey</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-03-23T05:19:34.079</CreationDate>
+	<Notes/>
+	<Text>Date of Journey</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2F73-A1E8-8B95-7A1A2A4E00CA"
+		/>
+	</TextIdentifier>
+</TranslatedText>

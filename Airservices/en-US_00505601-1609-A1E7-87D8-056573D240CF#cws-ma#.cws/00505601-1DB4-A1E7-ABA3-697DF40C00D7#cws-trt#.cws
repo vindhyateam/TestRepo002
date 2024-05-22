@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1DB4-A1E7-ABA3-697DF40C40D7">
+	<DocumentID>00505601-1DB4-A1E7-ABA3-697DF40C00D7</DocumentID>
+	<Name>00505601-1DB4-A1E7-ABA3-697DF40C00D7</Name>
+	<Description>Baggage information</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-10-11T14:19:57.697</CreationDate>
+	<Notes/>
+	<Text>Baggage information</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1DB4-A1E7-ABA3-697DF40B80D7"
+		/>
+	</TextIdentifier>
+</TranslatedText>

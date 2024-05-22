@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E8-88A6-94D1B27680CE">
+	<DocumentID>00505601-144E-A1E8-88A6-94D1B27640CE</DocumentID>
+	<Name>00505601-144E-A1E8-88A6-94D1B27640CE</Name>
+	<Description>Aircraft Maintenance</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-03-08T08:53:40.905</CreationDate>
+	<Notes/>
+	<Text>Aircraft Maintenance</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E8-88A6-94D1B275C0CE"
+		/>
+	</TextIdentifier>
+</TranslatedText>

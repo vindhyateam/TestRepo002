@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2F73-A1E8-969F-C0CA0F4E80D6">
+	<DocumentID>00505601-2F73-A1E8-969F-C0CA0F4E40D6</DocumentID>
+	<Name>00505601-2F73-A1E8-969F-C0CA0F4E40D6</Name>
+	<Description>Cathey website has been merged into catheypacific.com, making it easier for you to plan your journey. Below, you can access a range of Cathey online services as well as other helpful links.</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-05-18T09:38:03.412</CreationDate>
+	<Notes/>
+	<Text>Cathey website has been merged into catheypacific.com, making it easier for you to plan your journey. Below, you can access a range of Cathey online services as well as other helpful links.</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2F73-A1E8-969F-C0CA0F4DC0D6"
+		/>
+	</TextIdentifier>
+</TranslatedText>

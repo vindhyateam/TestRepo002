@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E7-A784-E30AFAD700C7">
+	<DocumentID>00505601-144E-A1E7-A784-E30AFAD6C0C7</DocumentID>
+	<Name>00505601-144E-A1E7-A784-E30AFAD6C0C7</Name>
+	<Description>CardImage</Description>
+	<CreatedBy>Alapati Siva kumar</CreatedBy>
+	<CreationDate>2017-09-20T15:13:32.871</CreationDate>
+	<Notes/>
+	<Text>CardImage</Text>
+	<Language>
+		<uri
+			id="00505601-144E-A1E7-A715-8E5D787D80C7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E7-A784-E30AFAD640C7"
+		/>
+	</TextIdentifier>
+</TranslatedText>

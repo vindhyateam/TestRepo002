@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2fb1-a1e8-90e9-256afb8c0459">
+	<DocumentID>00505601-2fb1-a1e8-90e9-256afb6e0459</DocumentID>
+	<Name>00505601-2fb1-a1e8-90e9-256afb6e0459</Name>
+	<Description/>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-04-19T07:38:10.509</CreationDate>
+	<Notes/>
+	<Text>Dynamic folder</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2fb1-a1e8-90e9-256afc450459"
+		/>
+	</TextIdentifier>
+</TranslatedText>

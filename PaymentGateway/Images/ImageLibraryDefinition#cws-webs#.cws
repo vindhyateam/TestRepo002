@@ -1,0 +1,20 @@
+
+<WebSource
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.websource.WebSource"
+	RuntimeDocumentID="00505601-144E-A1E7-A715-AE4001A240C7">
+	<DocumentID>00505601-144E-A1E7-A715-AE4001A200C7</DocumentID>
+	<Name>ImageLibraryDefinition</Name>
+	<Description>ImageLibraryDefinition</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-09-18T10:17:01.248</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<SourceFolder>
+		<uri
+			id="3CE1A1C1-A5FE-A1EF-85D8-9364B7D24844"
+			path="PaymentGateway/Images"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+</WebSource>

@@ -1,0 +1,197 @@
+
+<Layout
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.layout.Layout"
+	RuntimeDocumentID="00505601-144E-A1E8-88AC-E23096E440CE">
+	<DocumentID>00505601-144E-A1E8-88AC-E23096E400CE</DocumentID>
+	<Name>MaintenanceLayout</Name>
+	<Description>MaintenanceLayout</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-03-08T10:14:47.035</CreationDate>
+	<Notes/>
+	<Definition>{&quot;layoutType&quot;:&quot;object&quot;,&quot;id&quot;:&quot;00505601-144E-A1E8-88AC-E23096E400CE&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;row&quot;,&quot;panelId&quot;:null,&quot;size&quot;:3,&quot;id&quot;:&quot;69edc4cf35cc40f139e8a981651e5f8b&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;40de1f2510526df9a0dcd8eba960a620&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;94cc0b0c16b14a55683c25de8d62c7a9&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;11d1abb3fa511bf8fe130c00818a8b5b&quot;,&quot;nodes&quot;:[]}]}]},{&quot;type&quot;:&quot;row&quot;,&quot;panelId&quot;:null,&quot;size&quot;:3,&quot;id&quot;:&quot;c15749a549747bc991e4afb23e3c6621&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;e5d17aeea4d31192dd9ba092b1c79322&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;032f4bdaf0a33243567fbcd3724c894b&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;332539182b1bfa2030fa7b41bab925a7&quot;,&quot;nodes&quot;:[]}]}]},{&quot;type&quot;:&quot;row&quot;,&quot;panelId&quot;:null,&quot;size&quot;:94,&quot;id&quot;:&quot;95333f24aa63a4ef9bf4354fac057fb7&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;column&quot;,&quot;panelId&quot;:null,&quot;size&quot;:45,&quot;id&quot;:&quot;bf81966faa52014e5210c8590b7ae133&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;524fafb74573e380bfe434a8f9d61b9f&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;428c0ed251dd705725e2a89a7c21b573&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;0856c540646c181d01714fbc82f97144&quot;,&quot;nodes&quot;:[]}]}]},{&quot;type&quot;:&quot;column&quot;,&quot;panelId&quot;:null,&quot;size&quot;:55,&quot;id&quot;:&quot;38502bbbe7c3ca1c8e2b90cb7ee2b83d&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;c937b744cf29c9584265efdc6bce4493&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;d73754b14baaf14997a7ea107e9eebd3&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;c1f58fe541f3497f79bf9fc8e1557a87&quot;,&quot;nodes&quot;:[]}]}]}]}]}</Definition>
+	<HelpURL></HelpURL>
+	<HideCreateAction>false</HideCreateAction>
+	<IncludeInCreate>false</IncludeInCreate>
+	<IsFullLayout>true</IsFullLayout>
+	<IsPreviewLayout>false</IsPreviewLayout>
+	<LayoutPanelType>FitToScreen</LayoutPanelType>
+	<LayoutType>0</LayoutType>
+	<ShowFirstTab>false</ShowFirstTab>
+	<ActionBarAssociations>
+		<ActionBarAssociation
+			type="com.cordys.entity.buildingblocks.layout.ActionBarAssociation"
+			RuntimeDocumentID="00505601-144E-A1E8-88AF-A0A78449C0CE">
+			<DocumentID>00505601-144E-A1E8-88AF-A0A7844980CE</DocumentID>
+			<Name>TaskPanel_SelectedActionBar</Name>
+			<Description>Maintenance Actionbar</Description>
+			<CreatedBy>Alapati SivaKumar</CreatedBy>
+			<CreationDate>2018-03-08T10:54:49.107</CreationDate>
+			<Notes/>
+			<DisplayName>Maintenance Actionbar</DisplayName>
+			<ModelerId>96e5dc587b829b9d39da0f4d2f309e74</ModelerId>
+			<ActionBar>
+				<uri
+					id="00505601-144E-A1E8-88AE-4F4E4603C0CE"
+				/>
+			</ActionBar>
+		</ActionBarAssociation>
+		<ActionBarAssociation
+			type="com.cordys.entity.buildingblocks.layout.ActionBarAssociation"
+			RuntimeDocumentID="00505601-144E-A1E8-88AF-A0A7843D00CE">
+			<DocumentID>00505601-144E-A1E8-88AF-A0A7843CC0CE</DocumentID>
+			<Name>Actions_SelectedActionBar</Name>
+			<Description>Maintenance Actionbar</Description>
+			<CreatedBy>Alapati SivaKumar</CreatedBy>
+			<CreationDate>2018-03-08T11:07:10.721</CreationDate>
+			<Notes/>
+			<DisplayName>Maintenance Actionbar</DisplayName>
+			<ModelerId>e669a90a34ef90ce803413854de74939</ModelerId>
+			<ActionBar>
+				<uri
+					id="00505601-144E-A1E8-88AF-A0A7844700CE"
+				/>
+			</ActionBar>
+		</ActionBarAssociation>
+	</ActionBarAssociations>
+	<BuildingBlock>
+		<uri
+			id="00505601-1609-A1E7-9012-BA31C114C0CF"
+		/>
+	</BuildingBlock>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="00505601-144E-A1E8-88AE-4F4E461440CE">
+			<DocumentID>00505601-144E-A1E8-88AE-4F4E461400CE</DocumentID>
+			<Name>00505601-144E-A1E8-88AE-4F4E461400CE</Name>
+			<Description>00505601-144E-A1E8-88AE-4F4E461400CE</Description>
+			<CreatedBy>Alapati SivaKumar</CreatedBy>
+			<CreationDate>2018-03-08T10:14:47.035</CreationDate>
+			<Notes/>
+			<DeveloperText>Maintenance Layout</DeveloperText>
+			<Identifier>
+				<uri
+					id="00505601-144E-A1E8-88AE-4F4E461480CE"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<FormAssociations/>
+	<Image/>
+	<LayoutAssociations/>
+	<LayoutPanels>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="c8470923-66b0-4ff2-aeda-2313082203a3"
+			RuntimeDocumentID="00505601-144E-A1E8-88AE-4F4E4613C0CE">
+			<DocumentID>00505601-144E-A1E8-88AE-4F4E461380CE</DocumentID>
+			<Name>ActivityFlowSummaryPanel</Name>
+			<Description/>
+			<CreatedBy>Alapati SivaKumar</CreatedBy>
+			<CreationDate>2018-03-08T10:14:47.035</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;A6C6E10581CD480F9FD972FB288F2CAD&quot;,&quot;sourceName&quot;:&quot;ActivityFlowSummaryPanel&quot;,&quot;chrome&quot;:&quot;full&quot;,&quot;id&quot;:&quot;428c0ed251dd705725e2a89a7c21b573&quot;,&quot;imageQualifiedName&quot;:null,&quot;properties&quot;:[{&quot;name&quot;:&quot;Category&quot;,&quot;value&quot;:&quot;false&quot;},{&quot;name&quot;:&quot;Description&quot;,&quot;value&quot;:&quot;false&quot;},{&quot;name&quot;:&quot;DisplayName&quot;,&quot;value&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;InitiatedOn&quot;,&quot;value&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;Status&quot;,&quot;value&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;CompletedOn&quot;,&quot;value&quot;:&quot;false&quot;},{&quot;name&quot;:&quot;Progress&quot;,&quot;value&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;ActedBy&quot;,&quot;value&quot;:&quot;false&quot;},{&quot;name&quot;:&quot;ActedOn&quot;,&quot;value&quot;:&quot;false&quot;},{&quot;name&quot;:&quot;StartedBy&quot;,&quot;value&quot;:&quot;false&quot;}]}</Definition>
+			<DisplayName>Maintenance Summary</DisplayName>
+			<ModelerId>428c0ed251dd705725e2a89a7c21b573</ModelerId>
+			<SourceId>A6C6E10581CD480F9FD972FB288F2CAD</SourceId>
+			<SourceName>ActivityFlowSummaryPanel</SourceName>
+			<ActionBarAssociation/>
+			<CustomScript/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<LocalizableDisplayName/>
+			<PanelIcon/>
+			<WorklistAssociation/>
+			<XFormAssociation/>
+		</LayoutPanel>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="c8470923-66b0-4ff2-aeda-2313082203a3"
+			RuntimeDocumentID="00505601-144E-A1E8-88AE-4F4E461340CE">
+			<DocumentID>00505601-144E-A1E8-88AE-4F4E461300CE</DocumentID>
+			<Name>TaskPanel</Name>
+			<Description>Checklist before Flying</Description>
+			<CreatedBy>Alapati SivaKumar</CreatedBy>
+			<CreationDate>2018-03-08T10:14:47.035</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;AD4D660883F02AEE95C8164C693F3C16&quot;,&quot;sourceName&quot;:&quot;TaskPanel&quot;,&quot;chrome&quot;:&quot;full&quot;,&quot;id&quot;:&quot;d73754b14baaf14997a7ea107e9eebd3&quot;,&quot;imageQualifiedName&quot;:null,&quot;properties&quot;:[{&quot;name&quot;:&quot;actionBarId&quot;,&quot;value&quot;:&quot;00505601144EA1E888AE4F4E4603C0CE&quot;},{&quot;name&quot;:&quot;layoutContainerVersionId&quot;,&quot;value&quot;:null},{&quot;name&quot;:&quot;State&quot;,&quot;value&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;Subject&quot;,&quot;value&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;Assignee&quot;,&quot;value&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;StartDate&quot;,&quot;value&quot;:&quot;false&quot;},{&quot;name&quot;:&quot;DueDate&quot;,&quot;value&quot;:&quot;false&quot;},{&quot;name&quot;:&quot;Priority&quot;,&quot;value&quot;:&quot;false&quot;},{&quot;name&quot;:&quot;DeliveryDate&quot;,&quot;value&quot;:&quot;false&quot;},{&quot;name&quot;:&quot;CompletionDate&quot;,&quot;value&quot;:&quot;false&quot;}]}</Definition>
+			<DisplayName>Checklist before Flying</DisplayName>
+			<ModelerId>d73754b14baaf14997a7ea107e9eebd3</ModelerId>
+			<SourceId>AD4D660883F02AEE95C8164C693F3C16</SourceId>
+			<SourceName>TaskPanel</SourceName>
+			<ActionBarAssociation>
+				<uri
+					id="00505601-144E-A1E8-88AF-A0A7844980CE"
+				/>
+			</ActionBarAssociation>
+			<CustomScript/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<LocalizableDisplayName/>
+			<PanelIcon/>
+			<WorklistAssociation/>
+			<XFormAssociation/>
+		</LayoutPanel>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="c8470923-66b0-4ff2-aeda-2313082203a3"
+			RuntimeDocumentID="00505601-144E-A1E8-88AF-A0A7843D80CE">
+			<DocumentID>00505601-144E-A1E8-88AF-A0A7843D40CE</DocumentID>
+			<Name>Actions</Name>
+			<Description/>
+			<CreatedBy>Alapati SivaKumar</CreatedBy>
+			<CreationDate>2018-03-08T11:07:10.721</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;A68E0CD3E6914C42AF7F1352FC5884D1&quot;,&quot;sourceName&quot;:&quot;Actions&quot;,&quot;chrome&quot;:&quot;none&quot;,&quot;id&quot;:&quot;94cc0b0c16b14a55683c25de8d62c7a9&quot;,&quot;imageQualifiedName&quot;:null,&quot;properties&quot;:[{&quot;name&quot;:&quot;actionBarId&quot;,&quot;value&quot;:&quot;00505601144EA1E888AFA0A7844700CE&quot;},{&quot;name&quot;:&quot;layoutContainerVersionId&quot;,&quot;value&quot;:null}]}</Definition>
+			<DisplayName>Actions</DisplayName>
+			<ModelerId>94cc0b0c16b14a55683c25de8d62c7a9</ModelerId>
+			<SourceId>A68E0CD3E6914C42AF7F1352FC5884D1</SourceId>
+			<SourceName>Actions</SourceName>
+			<ActionBarAssociation>
+				<uri
+					id="00505601-144E-A1E8-88AF-A0A7843CC0CE"
+				/>
+			</ActionBarAssociation>
+			<CustomScript/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<LocalizableDisplayName/>
+			<PanelIcon/>
+			<WorklistAssociation/>
+			<XFormAssociation/>
+		</LayoutPanel>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="c8470923-66b0-4ff2-aeda-2313082203a3"
+			RuntimeDocumentID="00505601-144E-A1E8-88B0-3A84828B80CE">
+			<DocumentID>00505601-144E-A1E8-88B0-3A84828B40CE</DocumentID>
+			<Name>Breadcrumbs</Name>
+			<Description/>
+			<CreatedBy>Alapati SivaKumar</CreatedBy>
+			<CreationDate>2018-03-08T11:09:31.605</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;F2F761CA44844DBABCEDD7B6FF1EEBDD&quot;,&quot;sourceName&quot;:&quot;Breadcrumbs&quot;,&quot;chrome&quot;:&quot;none&quot;,&quot;id&quot;:&quot;032f4bdaf0a33243567fbcd3724c894b&quot;,&quot;imageQualifiedName&quot;:null,&quot;properties&quot;:[]}</Definition>
+			<DisplayName>Breadcrumbs</DisplayName>
+			<ModelerId>032f4bdaf0a33243567fbcd3724c894b</ModelerId>
+			<SourceId>F2F761CA44844DBABCEDD7B6FF1EEBDD</SourceId>
+			<SourceName>Breadcrumbs</SourceName>
+			<ActionBarAssociation/>
+			<CustomScript/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<LocalizableDisplayName/>
+			<PanelIcon/>
+			<WorklistAssociation/>
+			<XFormAssociation/>
+		</LayoutPanel>
+	</LayoutPanels>
+	<Original/>
+	<WorklistAssociations/>
+	<XFormAssociations/>
+</Layout>

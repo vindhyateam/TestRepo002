@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1609-A1E7-8F14-BCF9478080CE">
+	<DocumentID>00505601-1609-A1E7-8F14-BCF9478040CE</DocumentID>
+	<Name>00505601-1609-A1E7-8F14-BCF9478040CE</Name>
+	<Description>Add NewAircraft</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-05-19T05:30:20.757</CreationDate>
+	<Notes/>
+	<Text>Add NewAircraft</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1609-A1E7-8F14-BCF9477FC0CE"
+		/>
+	</TextIdentifier>
+</TranslatedText>

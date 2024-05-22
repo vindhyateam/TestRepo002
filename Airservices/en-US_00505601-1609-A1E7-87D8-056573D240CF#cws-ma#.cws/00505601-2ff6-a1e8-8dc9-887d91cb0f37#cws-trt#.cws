@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2ff6-a1e8-8dc9-887d91d50f37">
+	<DocumentID>00505601-2ff6-a1e8-8dc9-887d91cb0f37</DocumentID>
+	<Name>00505601-2ff6-a1e8-8dc9-887d91cb0f37</Name>
+	<Description>Total Baggage Pieces</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-04-03T10:25:59.332</CreationDate>
+	<Notes/>
+	<Text>Total Baggage Pieces</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2ff6-a1e8-8dc9-887d91b98f37"
+		/>
+	</TextIdentifier>
+</TranslatedText>

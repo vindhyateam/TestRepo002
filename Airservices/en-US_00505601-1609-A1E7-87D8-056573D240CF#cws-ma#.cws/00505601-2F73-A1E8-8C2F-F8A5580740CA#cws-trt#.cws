@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2F73-A1E8-8C2F-F8A5580780CA">
+	<DocumentID>00505601-2F73-A1E8-8C2F-F8A5580740CA</DocumentID>
+	<Name>00505601-2F73-A1E8-8C2F-F8A5580740CA</Name>
+	<Description>Cabin Baggage Only</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-03-26T06:37:07.01</CreationDate>
+	<Notes/>
+	<Text>Cabin Baggage Only</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2F73-A1E8-8C2F-F8A55806C0CA"
+		/>
+	</TextIdentifier>
+</TranslatedText>

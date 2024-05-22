@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="C4D98767-E607-A1E7-9088-C7544167F57B">
+	<DocumentID>C4D98767-E607-A1E7-9088-C7544167B57B</DocumentID>
+	<Name>C4D98767-E607-A1E7-9088-C7544167B57B</Name>
+	<Description>Bookingpage</Description>
+	<CreatedBy>svtuser</CreatedBy>
+	<CreationDate>2017-05-26T14:54:54.809</CreationDate>
+	<Notes/>
+	<Text>Bookingpage</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="C4D98767-E607-A1E7-9088-C7544167357B"
+		/>
+	</TextIdentifier>
+</TranslatedText>

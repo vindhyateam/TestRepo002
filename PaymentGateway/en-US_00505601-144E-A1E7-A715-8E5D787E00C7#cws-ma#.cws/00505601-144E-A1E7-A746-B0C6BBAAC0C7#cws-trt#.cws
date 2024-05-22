@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E7-A746-B0C6BBAB00C7">
+	<DocumentID>00505601-144E-A1E7-A746-B0C6BBAAC0C7</DocumentID>
+	<Name>00505601-144E-A1E7-A746-B0C6BBAAC0C7</Name>
+	<Description>Hide VisacardLogo</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-09-19T09:24:55.442</CreationDate>
+	<Notes/>
+	<Text>Hide VisacardLogo</Text>
+	<Language>
+		<uri
+			id="00505601-144E-A1E7-A715-8E5D787D80C7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E7-A746-B0C6BBAA40C7"
+		/>
+	</TextIdentifier>
+</TranslatedText>

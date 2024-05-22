@@ -1,0 +1,132 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="00505601-2ff6-a1e8-8df8-9b97b8161222">
+	<DocumentID>00505601-2ff6-a1e8-8df8-9b97b8049222</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-04-04T08:36:23.1</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="00505601-2ff6-a1e8-8df8-9b97b7e19222">
+			<DocumentID>00505601-2ff6-a1e8-8df8-9b97b7d29222</DocumentID>
+			<Name>CreateBoarding</Name>
+			<Description>Create Boarding</Description>
+			<CreatedBy>Alapati SivaKumar</CreatedBy>
+			<CreationDate>2018-04-04T08:36:23.1</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="00505601-1DB4-A1E7-ABD1-6FCC3338C0D8"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation>
+		<EntityWebServiceDeleteOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceDeleteOperation"
+			RuntimeDocumentID="00505601-2ff6-a1e8-8df8-c2bf53baa983">
+			<DocumentID>00505601-2ff6-a1e8-8df8-c2bf53aba983</DocumentID>
+			<Name>DeleteBoarding</Name>
+			<Description>Delete Boarding</Description>
+			<CreatedBy>Alapati SivaKumar</CreatedBy>
+			<CreationDate>2018-04-04T08:36:23.1</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="00505601-1DB4-A1E7-ABD1-6FCC3338C0D8"
+				/>
+			</Entity>
+		</EntityWebServiceDeleteOperation>
+	</DeleteOperation>
+	<Entity>
+		<uri
+			id="00505601-1DB4-A1E7-ABD1-6FCC3338C0D8"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="00505601-2ff6-a1e8-8df8-9b97b7c11222">
+			<DocumentID>00505601-2ff6-a1e8-8df8-9b97b7af9222</DocumentID>
+			<Name>ReadBoarding</Name>
+			<Description>Read Boarding</Description>
+			<CreatedBy>Alapati SivaKumar</CreatedBy>
+			<CreationDate>2018-04-04T08:36:23.099</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="00505601-1DB4-A1E7-ABD1-6FCC3338C0D8"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations>
+		<EntityWebServiceRelationshipOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceRelationshipOperation"
+			RuntimeDocumentID="00505601-2ff6-a1e8-8df8-c2bf5306a983">
+			<DocumentID>00505601-2ff6-a1e8-8df8-c2bf52fca983</DocumentID>
+			<Name>SetAddonPayment</Name>
+			<Description>Untitled Entity Web Service Relationship Operation</Description>
+			<CreatedBy>Alapati SivaKumar</CreatedBy>
+			<CreationDate>2018-04-04T08:36:23.099</CreationDate>
+			<Notes/>
+			<OperationType>SetOne</OperationType>
+			<Entity>
+				<uri
+					id="00505601-1DB4-A1E7-ABD1-6FCC3338C0D8"
+				/>
+			</Entity>
+			<Relationship>
+				<uri
+					id="00505601-2ff6-a1e8-8df8-c2bf53812983"
+				/>
+			</Relationship>
+		</EntityWebServiceRelationshipOperation>
+		<EntityWebServiceRelationshipOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceRelationshipOperation"
+			RuntimeDocumentID="00505601-2ff6-a1e8-8df8-c2bf52f2a983">
+			<DocumentID>00505601-2ff6-a1e8-8df8-c2bf52e62983</DocumentID>
+			<Name>ClearAddonPayment</Name>
+			<Description>Untitled Entity Web Service Relationship Operation</Description>
+			<CreatedBy>Alapati SivaKumar</CreatedBy>
+			<CreationDate>2018-04-04T08:36:23.099</CreationDate>
+			<Notes/>
+			<OperationType>ClearOne</OperationType>
+			<Entity>
+				<uri
+					id="00505601-1DB4-A1E7-ABD1-6FCC3338C0D8"
+				/>
+			</Entity>
+			<Relationship>
+				<uri
+					id="00505601-2ff6-a1e8-8df8-c2bf53812983"
+				/>
+			</Relationship>
+		</EntityWebServiceRelationshipOperation>
+	</RelationshipOperations>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="00505601-2ff6-a1e8-8df8-9b97b7a09222">
+			<DocumentID>00505601-2ff6-a1e8-8df8-9b97b7699222</DocumentID>
+			<Name>UpdateBoarding</Name>
+			<Description>Update Boarding</Description>
+			<CreatedBy>Alapati SivaKumar</CreatedBy>
+			<CreationDate>2018-04-04T08:36:23.101</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="00505601-1DB4-A1E7-ABD1-6FCC3338C0D8"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

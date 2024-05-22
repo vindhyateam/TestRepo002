@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1609-A1E7-8F15-E0B4B4BDC0CE">
+	<DocumentID>00505601-1609-A1E7-8F15-E0B4B4BD80CE</DocumentID>
+	<Name>00505601-1609-A1E7-8F15-E0B4B4BD80CE</Name>
+	<Description>Schedule Arrival</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-05-19T05:53:54.133</CreationDate>
+	<Notes/>
+	<Text>Schedule Arrival</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1609-A1E7-8F15-E0B4B4BD00CE"
+		/>
+	</TextIdentifier>
+</TranslatedText>

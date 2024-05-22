@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E7-A74B-A91A4D5A40C7">
+	<DocumentID>00505601-144E-A1E7-A74B-A91A4D5A00C7</DocumentID>
+	<Name>00505601-144E-A1E7-A74B-A91A4D5A00C7</Name>
+	<Description>Hide COD</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-09-19T11:39:23.428</CreationDate>
+	<Notes/>
+	<Text>Hide COD</Text>
+	<Language>
+		<uri
+			id="00505601-144E-A1E7-A715-8E5D787D80C7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E7-A74B-A91A4D5980C7"
+		/>
+	</TextIdentifier>
+</TranslatedText>

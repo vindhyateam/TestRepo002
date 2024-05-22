@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E8-86DF-AFEFCBAD00CD">
+	<DocumentID>00505601-144E-A1E8-86DF-AFEFCBACC0CD</DocumentID>
+	<Name>00505601-144E-A1E8-86DF-AFEFCBACC0CD</Name>
+	<Description>Safety Equipment</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-02-27T05:28:22.568</CreationDate>
+	<Notes/>
+	<Text>Safety Equipment</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E8-86DF-AFEFCBAC40CD"
+		/>
+	</TextIdentifier>
+</TranslatedText>

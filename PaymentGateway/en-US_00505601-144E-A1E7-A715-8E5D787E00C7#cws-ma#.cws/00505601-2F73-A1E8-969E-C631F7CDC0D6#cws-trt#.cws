@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2F73-A1E8-969E-C631F7CE00D6">
+	<DocumentID>00505601-2F73-A1E8-969E-C631F7CDC0D6</DocumentID>
+	<Name>00505601-2F73-A1E8-969E-C631F7CDC0D6</Name>
+	<Description>Terms&amp;Conditions Layout</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-05-18T09:09:41.185</CreationDate>
+	<Notes/>
+	<Text>Terms&amp;Conditions Layout</Text>
+	<Language>
+		<uri
+			id="00505601-144E-A1E7-A715-8E5D787D80C7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2F73-A1E8-969E-C631F7CD40D6"
+		/>
+	</TextIdentifier>
+</TranslatedText>

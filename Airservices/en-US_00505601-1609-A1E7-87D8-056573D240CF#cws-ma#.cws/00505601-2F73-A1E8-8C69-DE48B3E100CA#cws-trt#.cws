@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2F73-A1E8-8C69-DE48B3E140CA">
+	<DocumentID>00505601-2F73-A1E8-8C69-DE48B3E100CA</DocumentID>
+	<Name>00505601-2F73-A1E8-8C69-DE48B3E100CA</Name>
+	<Description>Business ID</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-03-27T10:56:48.031</CreationDate>
+	<Notes/>
+	<Text>Business ID</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2F73-A1E8-8C69-DE48B3E080CA"
+		/>
+	</TextIdentifier>
+</TranslatedText>

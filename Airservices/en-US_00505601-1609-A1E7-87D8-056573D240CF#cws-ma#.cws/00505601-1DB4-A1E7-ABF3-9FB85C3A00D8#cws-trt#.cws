@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1DB4-A1E7-ABF3-9FB85C3A40D8">
+	<DocumentID>00505601-1DB4-A1E7-ABF3-9FB85C3A00D8</DocumentID>
+	<Name>00505601-1DB4-A1E7-ABF3-9FB85C3A00D8</Name>
+	<Description>Travel Itinerary</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-10-13T04:35:27.56</CreationDate>
+	<Notes/>
+	<Text>Travel Itinerary</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1DB4-A1E7-ABF3-9FB85C3980D8"
+		/>
+	</TextIdentifier>
+</TranslatedText>

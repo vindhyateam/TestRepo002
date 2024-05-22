@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1609-A1E7-8FE2-DD6B0F0040CF">
+	<DocumentID>00505601-1609-A1E7-8FE2-DD6B0F0000CF</DocumentID>
+	<Name>00505601-1609-A1E7-8FE2-DD6B0F0000CF</Name>
+	<Description>Select AirCraft</Description>
+	<CreatedBy>svtuser</CreatedBy>
+	<CreationDate>2017-05-23T09:08:12.62</CreationDate>
+	<Notes/>
+	<Text>Select AirCraft</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1609-A1E7-8FE2-DD6B0EFF80CF"
+		/>
+	</TextIdentifier>
+</TranslatedText>

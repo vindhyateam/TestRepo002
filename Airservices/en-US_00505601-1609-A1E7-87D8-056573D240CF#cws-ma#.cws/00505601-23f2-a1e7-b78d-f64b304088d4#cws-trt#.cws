@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-23f2-a1e7-b78d-f64b304f88d4">
+	<DocumentID>00505601-23f2-a1e7-b78d-f64b304088d4</DocumentID>
+	<Name>00505601-23f2-a1e7-b78d-f64b304088d4</Name>
+	<Description>Email Price Quotation</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-12-11T06:07:53.409</CreationDate>
+	<Notes/>
+	<Text>Email Price Quotation</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-23f2-a1e7-b78d-f64b302008d4"
+		/>
+	</TextIdentifier>
+</TranslatedText>

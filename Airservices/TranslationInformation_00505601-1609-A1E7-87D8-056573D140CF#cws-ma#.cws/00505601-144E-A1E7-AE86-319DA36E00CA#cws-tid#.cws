@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-144E-A1E7-AE86-319DA36E40CA">
+	<DocumentID>00505601-144E-A1E7-AE86-319DA36E00CA</DocumentID>
+	<Name>00505601-144E-A1E7-AE86-319DA36E00CA</Name>
+	<Description>CathayPacific HomePage</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-10-26T09:33:58.474</CreationDate>
+	<Notes/>
+	<DefaultText>CathayPacific HomePage</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-144E-A1E7-AE86-319DA36E80CA"
+		/>
+	</Translations>
+</TextIdentifier>

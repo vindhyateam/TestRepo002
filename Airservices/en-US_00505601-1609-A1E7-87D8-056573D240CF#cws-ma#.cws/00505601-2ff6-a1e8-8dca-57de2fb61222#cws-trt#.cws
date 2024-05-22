@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2ff6-a1e8-8dca-57de2fc01222">
+	<DocumentID>00505601-2ff6-a1e8-8dca-57de2fb61222</DocumentID>
+	<Name>00505601-2ff6-a1e8-8dca-57de2fb61222</Name>
+	<Description>Callback BaggageCount</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-04-03T11:09:17.374</CreationDate>
+	<Notes/>
+	<Text>Callback BaggageCount</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2ff6-a1e8-8dca-57de2f9f9222"
+		/>
+	</TextIdentifier>
+</TranslatedText>

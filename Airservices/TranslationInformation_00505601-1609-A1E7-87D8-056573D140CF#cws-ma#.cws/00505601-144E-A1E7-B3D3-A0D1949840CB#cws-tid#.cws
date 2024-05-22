@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-144E-A1E7-B3D3-A0D1949880CB">
+	<DocumentID>00505601-144E-A1E7-B3D3-A0D1949840CB</DocumentID>
+	<Name>00505601-144E-A1E7-B3D3-A0D1949840CB</Name>
+	<Description>PASSENGER_1</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-11-22T07:00:40.368</CreationDate>
+	<Notes/>
+	<DefaultText>PASSENGER_1</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-144E-A1E7-B3D3-A0D19498C0CB"
+		/>
+	</Translations>
+</TextIdentifier>

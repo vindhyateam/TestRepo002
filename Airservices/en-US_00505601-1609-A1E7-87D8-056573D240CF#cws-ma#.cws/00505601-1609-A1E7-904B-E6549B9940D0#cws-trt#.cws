@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1609-A1E7-904B-E6549B9980D0">
+	<DocumentID>00505601-1609-A1E7-904B-E6549B9940D0</DocumentID>
+	<Name>00505601-1609-A1E7-904B-E6549B9940D0</Name>
+	<Description>Passengers Details:</Description>
+	<CreatedBy>svtuser</CreatedBy>
+	<CreationDate>2017-05-25T14:52:53.578</CreationDate>
+	<Notes/>
+	<Text>Passengers Details:</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1609-A1E7-904B-E6549B98C0D0"
+		/>
+	</TextIdentifier>
+</TranslatedText>

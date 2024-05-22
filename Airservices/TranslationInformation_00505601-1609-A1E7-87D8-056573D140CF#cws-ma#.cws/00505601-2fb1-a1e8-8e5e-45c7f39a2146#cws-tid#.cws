@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-2fb1-a1e8-8e5e-45c7f3a42146">
+	<DocumentID>00505601-2fb1-a1e8-8e5e-45c7f39a2146</DocumentID>
+	<Name>00505601-2fb1-a1e8-8e5e-45c7f39a2146</Name>
+	<Description>Delay</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-04-06T09:21:23.876</CreationDate>
+	<Notes/>
+	<DefaultText>Delay</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-2fb1-a1e8-8e5e-45c7f3b0a146"
+		/>
+	</Translations>
+</TextIdentifier>

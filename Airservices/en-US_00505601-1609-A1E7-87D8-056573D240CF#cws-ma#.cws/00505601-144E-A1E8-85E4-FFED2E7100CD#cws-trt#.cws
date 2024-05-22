@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E8-85E4-FFED2E7140CD">
+	<DocumentID>00505601-144E-A1E8-85E4-FFED2E7100CD</DocumentID>
+	<Name>00505601-144E-A1E8-85E4-FFED2E7100CD</Name>
+	<Description>On Land</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-02-22T05:48:29.294</CreationDate>
+	<Notes/>
+	<Text>On Land</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E8-85E4-FFED2E7080CD"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-2fb1-a1e8-8f2b-a59b60d1200e">
+	<DocumentID>00505601-2fb1-a1e8-8f2b-a59b60c4a00e</DocumentID>
+	<Name>00505601-2fb1-a1e8-8f2b-a59b60c4a00e</Name>
+	<Description>Payment Details:</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-04-10T11:23:42.603</CreationDate>
+	<Notes/>
+	<DefaultText>Payment Details:</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-2fb1-a1e8-8f2b-a59b60db200e"
+		/>
+	</Translations>
+</TextIdentifier>

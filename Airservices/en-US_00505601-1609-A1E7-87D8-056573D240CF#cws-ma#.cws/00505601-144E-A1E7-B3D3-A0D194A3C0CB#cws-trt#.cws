@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E7-B3D3-A0D194A400CB">
+	<DocumentID>00505601-144E-A1E7-B3D3-A0D194A3C0CB</DocumentID>
+	<Name>00505601-144E-A1E7-B3D3-A0D194A3C0CB</Name>
+	<Description>Travelling Flight</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-11-22T06:45:09.257</CreationDate>
+	<Notes/>
+	<Text>Travelling Flight</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E7-B3D3-A0D194A340CB"
+		/>
+	</TextIdentifier>
+</TranslatedText>

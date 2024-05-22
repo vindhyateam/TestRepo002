@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E7-A749-CD1FAAA240C7">
+	<DocumentID>00505601-144E-A1E7-A749-CD1FAAA200C7</DocumentID>
+	<Name>00505601-144E-A1E7-A749-CD1FAAA200C7</Name>
+	<Description>The availability of the Cash on Delivery option is subject to the Cash on Delivery terms &amp; conditions.</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-09-19T11:32:38.6</CreationDate>
+	<Notes/>
+	<Text>The availability of the Cash on Delivery option is subject to the Cash on Delivery terms &amp; conditions.</Text>
+	<Language>
+		<uri
+			id="00505601-144E-A1E7-A715-8E5D787D80C7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E7-A74B-50F697D380C7"
+		/>
+	</TextIdentifier>
+</TranslatedText>

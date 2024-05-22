@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1609-A1E7-8FAE-6BE8F6F5C0CF">
+	<DocumentID>00505601-1609-A1E7-8FAE-6BE8F6F580CF</DocumentID>
+	<Name>00505601-1609-A1E7-8FAE-6BE8F6F580CF</Name>
+	<Description>AirService Details</Description>
+	<CreatedBy>svtuser</CreatedBy>
+	<CreationDate>2017-05-22T08:03:54.392</CreationDate>
+	<Notes/>
+	<Text>AirService Details</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1609-A1E7-8FAE-6BE8F6F500CF"
+		/>
+	</TextIdentifier>
+</TranslatedText>

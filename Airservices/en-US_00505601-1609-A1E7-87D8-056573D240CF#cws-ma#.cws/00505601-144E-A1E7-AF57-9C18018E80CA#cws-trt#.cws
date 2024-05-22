@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E7-AF57-9C18018EC0CA">
+	<DocumentID>00505601-144E-A1E7-AF57-9C18018E80CA</DocumentID>
+	<Name>00505601-144E-A1E7-AF57-9C18018E80CA</Name>
+	<Description>Flights To</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-10-30T10:53:42.433</CreationDate>
+	<Notes/>
+	<Text>Flights To</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E7-AF57-9C18018E00CA"
+		/>
+	</TextIdentifier>
+</TranslatedText>

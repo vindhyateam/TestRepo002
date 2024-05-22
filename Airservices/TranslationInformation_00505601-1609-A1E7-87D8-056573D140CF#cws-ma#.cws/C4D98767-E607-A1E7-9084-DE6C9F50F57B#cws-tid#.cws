@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="C4D98767-E607-A1E7-9084-DE6C9F51357B">
+	<DocumentID>C4D98767-E607-A1E7-9084-DE6C9F50F57B</DocumentID>
+	<Name>C4D98767-E607-A1E7-9084-DE6C9F50F57B</Name>
+	<Description>Update AircraftDetails</Description>
+	<CreatedBy>svtuser</CreatedBy>
+	<CreationDate>2017-05-26T13:25:45.048</CreationDate>
+	<Notes/>
+	<DefaultText>Update AircraftDetails</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="C4D98767-E607-A1E7-9084-DE6C9F51757B"
+		/>
+	</Translations>
+</TextIdentifier>

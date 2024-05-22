@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2ff6-a1e8-8ccb-4e06339931cb">
+	<DocumentID>00505601-2ff6-a1e8-8ccb-4e06338cb1cb</DocumentID>
+	<Name>00505601-2ff6-a1e8-8ccb-4e06338cb1cb</Name>
+	<Description>Special Assistance</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-03-29T09:55:48.964</CreationDate>
+	<Notes/>
+	<Text>Special Assistance</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2ff6-a1e8-8ccb-4e06337631cb"
+		/>
+	</TextIdentifier>
+</TranslatedText>

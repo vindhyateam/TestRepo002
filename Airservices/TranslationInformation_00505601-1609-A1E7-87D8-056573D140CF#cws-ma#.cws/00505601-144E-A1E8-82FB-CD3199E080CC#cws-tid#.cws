@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-144E-A1E8-82FB-CD3199E0C0CC">
+	<DocumentID>00505601-144E-A1E8-82FB-CD3199E080CC</DocumentID>
+	<Name>00505601-144E-A1E8-82FB-CD3199E080CC</Name>
+	<Description>Select InboundFlight</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-02-07T10:19:35.3</CreationDate>
+	<Notes/>
+	<DefaultText>Select InboundFlight</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-144E-A1E8-82FB-CD3199E100CC"
+		/>
+	</Translations>
+</TextIdentifier>

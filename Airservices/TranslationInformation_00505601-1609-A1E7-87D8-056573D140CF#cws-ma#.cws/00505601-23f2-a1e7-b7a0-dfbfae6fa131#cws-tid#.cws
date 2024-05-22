@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-23f2-a1e7-b7a0-dfbfae812131">
+	<DocumentID>00505601-23f2-a1e7-b7a0-dfbfae6fa131</DocumentID>
+	<Name>00505601-23f2-a1e7-b7a0-dfbfae6fa131</Name>
+	<Description>CountryBasedAds</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-12-11T14:56:41.482</CreationDate>
+	<Notes/>
+	<DefaultText>CountryBasedAds</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-23f2-a1e7-b7a0-dfbfae902131"
+		/>
+	</Translations>
+</TextIdentifier>

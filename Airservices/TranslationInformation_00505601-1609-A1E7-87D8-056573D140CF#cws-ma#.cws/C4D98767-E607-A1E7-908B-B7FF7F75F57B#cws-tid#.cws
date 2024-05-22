@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="C4D98767-E607-A1E7-908B-B7FF7F76357B">
+	<DocumentID>C4D98767-E607-A1E7-908B-B7FF7F75F57B</DocumentID>
+	<Name>C4D98767-E607-A1E7-908B-B7FF7F75F57B</Name>
+	<Description>One Way</Description>
+	<CreatedBy>svtuser</CreatedBy>
+	<CreationDate>2017-05-26T16:18:23.859</CreationDate>
+	<Notes/>
+	<DefaultText>One Way</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="C4D98767-E607-A1E7-908B-B7FF7F76757B"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E8-8326-7C58E19540CC">
+	<DocumentID>00505601-144E-A1E8-8326-7C58E19500CC</DocumentID>
+	<Name>00505601-144E-A1E8-8326-7C58E19500CC</Name>
+	<Description>GetSelectPassengers</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-02-08T06:35:02.126</CreationDate>
+	<Notes/>
+	<Text>GetSelectPassengers</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E8-8326-7C58E19480CC"
+		/>
+	</TextIdentifier>
+</TranslatedText>

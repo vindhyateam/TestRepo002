@@ -1,0 +1,19 @@
+
+<RoleDesignTime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleDesignTime"
+	typeVersion="0242a425-d150-11e7-e026-4d289331252b"
+	RuntimeDocumentID="00505601-3E3A-A1E9-8A4B-C9BCD83A110E">
+	<DocumentID>00505601-3E3A-A1E9-8A4B-C9BCD839D10E</DocumentID>
+	<Name>Airservices_Airline Customer</Name>
+	<Description>Airservices_Airline Customer</Description>
+	<CreatedBy>Administrator</CreatedBy>
+	<CreationDate>2019-02-05T11:28:01.648</CreationDate>
+	<Notes/>
+	<DistinguishedName>cn=#roleName#, cn=#ISVPName#, #LDAPRoot#</DistinguishedName>
+	<ExposeForReuse>false</ExposeForReuse>
+	<type>Functional</type>
+	<Subroles/>
+	<Superroles/>
+	<configuredTasks/>
+</RoleDesignTime>

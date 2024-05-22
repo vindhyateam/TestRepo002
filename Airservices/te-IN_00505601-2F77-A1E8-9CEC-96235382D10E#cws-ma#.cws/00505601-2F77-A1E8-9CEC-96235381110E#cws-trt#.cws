@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2F77-A1E8-9CEC-96235381510E">
+	<DocumentID>00505601-2F77-A1E8-9CEC-96235381110E</DocumentID>
+	<Name>00505601-2F77-A1E8-9CEC-96235381110E</Name>
+	<Description>ఎయిర్ క్రాఫ్ట్ పద్ధతి</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-06-20T04:56:19.593</CreationDate>
+	<Notes/>
+	<Text>ఎయిర్ క్రాఫ్ట్ పద్ధతి</Text>
+	<Language>
+		<uri
+			id="00505601-2F77-A1E8-9CEC-96235383510E"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1609-A1E7-8803-C1A11DEDC0CF"
+		/>
+	</TextIdentifier>
+</TranslatedText>

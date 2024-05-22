@@ -1,0 +1,19 @@
+
+<LayoutBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.layout.LayoutBuildingBlock"
+	typeVersion="DC978CBB-0A47-4BEE-846D-F1D35152083E"
+	RuntimeDocumentID="00505601-1609-A1E7-9025-3F27780E40D0">
+	<DocumentID>00505601-1609-A1E7-9025-3F27780E00D0</DocumentID>
+	<Name>Layout</Name>
+	<Description>Layout</Description>
+	<CreatedBy>svtuser</CreatedBy>
+	<CreationDate>2017-05-24T15:26:33.894</CreationDate>
+	<Notes/>
+	<Entity>
+		<uri
+			id="00505601-1609-A1E7-87D8-949622F040CF"
+		/>
+	</Entity>
+	<Layouts/>
+</LayoutBuildingBlock>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1609-A1E7-95C8-1CDD00D440D5">
+	<DocumentID>00505601-1609-A1E7-95C8-1CDD00D400D5</DocumentID>
+	<Name>00505601-1609-A1E7-95C8-1CDD00D400D5</Name>
+	<Description>SBI</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-06-22T09:31:27.298</CreationDate>
+	<Notes/>
+	<Text>SBI</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1609-A1E7-95C8-1CDD00D380D5"
+		/>
+	</TextIdentifier>
+</TranslatedText>

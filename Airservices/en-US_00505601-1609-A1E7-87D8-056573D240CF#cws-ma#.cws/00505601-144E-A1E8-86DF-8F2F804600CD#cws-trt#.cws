@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E8-86DF-8F2F804640CD">
+	<DocumentID>00505601-144E-A1E8-86DF-8F2F804600CD</DocumentID>
+	<Name>00505601-144E-A1E8-86DF-8F2F804600CD</Name>
+	<Description>Fuel Levels Check</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-02-27T05:28:22.553</CreationDate>
+	<Notes/>
+	<Text>Fuel Levels Check</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E8-86DF-8F2F804580CD"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2F73-A1E8-93AD-6C00FAF1C0D4">
+	<DocumentID>00505601-2F73-A1E8-93AD-6C00FAF180D4</DocumentID>
+	<Name>00505601-2F73-A1E8-93AD-6C00FAF180D4</Name>
+	<Description>Payment For Upgrades Layout</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-05-03T09:42:06.675</CreationDate>
+	<Notes/>
+	<Text>Payment For Upgrades Layout</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2F73-A1E8-93AD-6C00FAF100D4"
+		/>
+	</TextIdentifier>
+</TranslatedText>

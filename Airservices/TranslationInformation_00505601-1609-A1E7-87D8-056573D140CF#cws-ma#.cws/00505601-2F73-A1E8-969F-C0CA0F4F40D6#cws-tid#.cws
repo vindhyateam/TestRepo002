@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-2F73-A1E8-969F-C0CA0F4F80D6">
+	<DocumentID>00505601-2F73-A1E8-969F-C0CA0F4F40D6</DocumentID>
+	<Name>00505601-2F73-A1E8-969F-C0CA0F4F40D6</Name>
+	<Description>Welcome to Cathey new home on Entity Modeling</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-05-18T09:38:03.412</CreationDate>
+	<Notes/>
+	<DefaultText>Welcome to Cathey new home on Entity Modeling</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-2F73-A1E8-969F-C0CA0F4FC0D6"
+		/>
+	</Translations>
+</TextIdentifier>

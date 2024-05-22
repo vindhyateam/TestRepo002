@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-23f2-a1e7-b78e-d2834c2b274a">
+	<DocumentID>00505601-23f2-a1e7-b78e-d2834c19a74a</DocumentID>
+	<Name>00505601-23f2-a1e7-b78e-d2834c19a74a</Name>
+	<Description>Email Itinerary</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-12-11T06:32:27.781</CreationDate>
+	<Notes/>
+	<Text>Email Itinerary</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-23f2-a1e7-b78e-d2834bf9274a"
+		/>
+	</TextIdentifier>
+</TranslatedText>

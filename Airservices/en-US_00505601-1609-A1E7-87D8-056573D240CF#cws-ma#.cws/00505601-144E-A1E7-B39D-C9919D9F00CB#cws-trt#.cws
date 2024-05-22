@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E7-B39D-C9919D9F40CB">
+	<DocumentID>00505601-144E-A1E7-B39D-C9919D9F00CB</DocumentID>
+	<Name>00505601-144E-A1E7-B39D-C9919D9F00CB</Name>
+	<Description>Booking Status</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-11-21T05:18:01.308</CreationDate>
+	<Notes/>
+	<Text>Booking Status</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E7-B39D-C9919D9E80CB"
+		/>
+	</TextIdentifier>
+</TranslatedText>

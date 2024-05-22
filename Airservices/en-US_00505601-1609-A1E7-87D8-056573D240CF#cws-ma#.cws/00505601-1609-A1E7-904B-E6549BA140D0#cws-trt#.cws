@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1609-A1E7-904B-E6549BA180D0">
+	<DocumentID>00505601-1609-A1E7-904B-E6549BA140D0</DocumentID>
+	<Name>00505601-1609-A1E7-904B-E6549BA140D0</Name>
+	<Description>Price Details</Description>
+	<CreatedBy>svtuser</CreatedBy>
+	<CreationDate>2017-05-25T09:56:16.72</CreationDate>
+	<Notes/>
+	<Text>Price Details</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1609-A1E7-904B-E6549BA0C0D0"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E8-8589-3815AEAC80CD">
+	<DocumentID>00505601-144E-A1E8-8589-3815AEAC40CD</DocumentID>
+	<Name>00505601-144E-A1E8-8589-3815AEAC40CD</Name>
+	<Description>AirservicesHomePage Form(Abandoned)</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-02-20T10:01:16.521</CreationDate>
+	<Notes/>
+	<Text>AirservicesHomePage Form(Abandoned)</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E8-8589-3815AEABC0CD"
+		/>
+	</TextIdentifier>
+</TranslatedText>

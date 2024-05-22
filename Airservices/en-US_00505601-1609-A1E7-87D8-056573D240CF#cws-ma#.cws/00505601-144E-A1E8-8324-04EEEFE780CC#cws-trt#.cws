@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E8-8324-04EEEFE7C0CC">
+	<DocumentID>00505601-144E-A1E8-8324-04EEEFE780CC</DocumentID>
+	<Name>00505601-144E-A1E8-8324-04EEEFE780CC</Name>
+	<Description>Select Outbound Flight</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-02-08T05:24:29.391</CreationDate>
+	<Notes/>
+	<Text>Select Outbound Flight</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E8-8324-04EEEFE700CC"
+		/>
+	</TextIdentifier>
+</TranslatedText>

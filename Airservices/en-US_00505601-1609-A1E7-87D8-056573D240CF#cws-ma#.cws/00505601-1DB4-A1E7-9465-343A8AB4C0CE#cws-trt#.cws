@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1DB4-A1E7-9465-343A8AB500CE">
+	<DocumentID>00505601-1DB4-A1E7-9465-343A8AB4C0CE</DocumentID>
+	<Name>00505601-1DB4-A1E7-9465-343A8AB4C0CE</Name>
+	<Description>Calculate GrandTotal</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-06-15T06:37:37.537</CreationDate>
+	<Notes/>
+	<Text>Calculate GrandTotal</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1DB4-A1E7-9465-343A8AB440CE"
+		/>
+	</TextIdentifier>
+</TranslatedText>

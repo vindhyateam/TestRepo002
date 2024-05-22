@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2ff6-a1e8-8dcc-885884a52075">
+	<DocumentID>00505601-2ff6-a1e8-8dcc-8858849b2075</DocumentID>
+	<Name>00505601-2ff6-a1e8-8dcc-8858849b2075</Name>
+	<Description>Calculate BaggageCount</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-04-03T11:33:43.504</CreationDate>
+	<Notes/>
+	<Text>Calculate BaggageCount</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2ff6-a1e8-8dcc-88588484a075"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E7-AE86-72C9EF3300CA">
+	<DocumentID>00505601-144E-A1E7-AE86-72C9EF32C0CA</DocumentID>
+	<Name>00505601-144E-A1E7-AE86-72C9EF32C0CA</Name>
+	<Description>Flight TimeTable</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-10-26T09:33:58.458</CreationDate>
+	<Notes/>
+	<Text>Flight TimeTable</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E7-AE86-72C9EF3240CA"
+		/>
+	</TextIdentifier>
+</TranslatedText>

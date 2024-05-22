@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E7-AE8E-0F30BAD200CA">
+	<DocumentID>00505601-144E-A1E7-AE8E-0F30BAD1C0CA</DocumentID>
+	<Name>00505601-144E-A1E7-AE8E-0F30BAD1C0CA</Name>
+	<Description>Upload BoardingPass</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-10-27T04:11:32.313</CreationDate>
+	<Notes/>
+	<Text>Upload BoardingPass</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E7-AE8E-0F30BAD140CA"
+		/>
+	</TextIdentifier>
+</TranslatedText>

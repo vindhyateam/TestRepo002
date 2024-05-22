@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1DB4-A1E7-946C-48C85B8B40CE">
+	<DocumentID>00505601-1DB4-A1E7-946C-48C85B8B00CE</DocumentID>
+	<Name>00505601-1DB4-A1E7-946C-48C85B8B00CE</Name>
+	<Description>Save this Trip</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-06-15T10:40:37.25</CreationDate>
+	<Notes/>
+	<Text>Save this Trip</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1DB4-A1E7-946C-48C85B8A80CE"
+		/>
+	</TextIdentifier>
+</TranslatedText>

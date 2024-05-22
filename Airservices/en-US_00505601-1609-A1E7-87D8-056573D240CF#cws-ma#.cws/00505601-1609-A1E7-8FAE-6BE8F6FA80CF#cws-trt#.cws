@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1609-A1E7-8FAE-6BE8F6FAC0CF">
+	<DocumentID>00505601-1609-A1E7-8FAE-6BE8F6FA80CF</DocumentID>
+	<Name>00505601-1609-A1E7-8FAE-6BE8F6FA80CF</Name>
+	<Description>Currency Converter</Description>
+	<CreatedBy>svtuser</CreatedBy>
+	<CreationDate>2017-05-22T07:52:26.913</CreationDate>
+	<Notes/>
+	<Text>Currency Converter</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1609-A1E7-8FAE-6BE8F6FA00CF"
+		/>
+	</TextIdentifier>
+</TranslatedText>

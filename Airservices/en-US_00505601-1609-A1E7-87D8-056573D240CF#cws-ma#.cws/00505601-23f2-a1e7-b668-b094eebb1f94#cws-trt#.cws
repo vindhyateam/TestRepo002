@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-23f2-a1e7-b668-b094eecf1f94">
+	<DocumentID>00505601-23f2-a1e7-b668-b094eebb1f94</DocumentID>
+	<Name>00505601-23f2-a1e7-b668-b094eebb1f94</Name>
+	<Description>Download AircraftLayout</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-12-05T10:00:42.339</CreationDate>
+	<Notes/>
+	<Text>Download AircraftLayout</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-23f2-a1e7-b668-b094ee931f94"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E8-883D-4D848CB700CE">
+	<DocumentID>00505601-144E-A1E8-883D-4D848CB6C0CE</DocumentID>
+	<Name>00505601-144E-A1E8-883D-4D848CB6C0CE</Name>
+	<Description>VisaSelection</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-03-07T08:05:59.267</CreationDate>
+	<Notes/>
+	<Text>VisaSelection</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E8-883D-4D848CB640CE"
+		/>
+	</TextIdentifier>
+</TranslatedText>

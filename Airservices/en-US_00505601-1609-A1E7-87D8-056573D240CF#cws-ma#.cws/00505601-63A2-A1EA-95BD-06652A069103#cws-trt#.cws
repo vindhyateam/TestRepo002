@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-63A2-A1EA-95BD-06652A06D103">
+	<DocumentID>00505601-63A2-A1EA-95BD-06652A069103</DocumentID>
+	<Name>00505601-63A2-A1EA-95BD-06652A069103</Name>
+	<Description>Turbine</Description>
+	<CreatedBy>Administrator</CreatedBy>
+	<CreationDate>2020-02-25T06:43:41.822</CreationDate>
+	<Notes/>
+	<Text>Turbine</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-63A2-A1EA-95BD-06652A061103"
+		/>
+	</TextIdentifier>
+</TranslatedText>

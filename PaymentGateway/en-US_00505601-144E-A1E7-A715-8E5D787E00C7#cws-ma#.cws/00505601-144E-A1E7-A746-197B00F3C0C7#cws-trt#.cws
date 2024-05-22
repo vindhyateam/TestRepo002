@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E7-A746-197B00F400C7">
+	<DocumentID>00505601-144E-A1E7-A746-197B00F3C0C7</DocumentID>
+	<Name>00505601-144E-A1E7-A746-197B00F3C0C7</Name>
+	<Description>Hide MasterCard</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-09-19T09:09:32.702</CreationDate>
+	<Notes/>
+	<Text>Hide MasterCard</Text>
+	<Language>
+		<uri
+			id="00505601-144E-A1E7-A715-8E5D787D80C7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E7-A746-197B00F340C7"
+		/>
+	</TextIdentifier>
+</TranslatedText>

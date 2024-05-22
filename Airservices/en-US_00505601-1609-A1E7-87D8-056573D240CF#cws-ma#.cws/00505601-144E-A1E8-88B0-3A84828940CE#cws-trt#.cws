@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E8-88B0-3A84828980CE">
+	<DocumentID>00505601-144E-A1E8-88B0-3A84828940CE</DocumentID>
+	<Name>00505601-144E-A1E8-88B0-3A84828940CE</Name>
+	<Description>Initiate Maintenance</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-03-08T11:10:03.266</CreationDate>
+	<Notes/>
+	<Text>Initiate Maintenance</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E8-88B0-3A848288C0CE"
+		/>
+	</TextIdentifier>
+</TranslatedText>

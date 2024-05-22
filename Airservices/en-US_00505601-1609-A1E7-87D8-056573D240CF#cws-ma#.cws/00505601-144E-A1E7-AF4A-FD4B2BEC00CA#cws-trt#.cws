@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E7-AF4A-FD4B2BEC40CA">
+	<DocumentID>00505601-144E-A1E7-AF4A-FD4B2BEC00CA</DocumentID>
+	<Name>00505601-144E-A1E7-AF4A-FD4B2BEC00CA</Name>
+	<Description>Welcome to Cathay new home on Entity Modeling</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-10-30T04:59:37.233</CreationDate>
+	<Notes/>
+	<Text>Welcome to Cathay new home on Entity Modeling</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E7-AF4A-FD4B2BEB80CA"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2fb1-a1e8-8f2b-25740cb92d7f">
+	<DocumentID>00505601-2fb1-a1e8-8f2b-25740cacad7f</DocumentID>
+	<Name>00505601-2fb1-a1e8-8f2b-25740cacad7f</Name>
+	<Description>Set Upgraded Class</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-04-10T11:02:57.872</CreationDate>
+	<Notes/>
+	<Text>Set Upgraded Class</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2fb1-a1e8-8f2b-25740c962d7f"
+		/>
+	</TextIdentifier>
+</TranslatedText>

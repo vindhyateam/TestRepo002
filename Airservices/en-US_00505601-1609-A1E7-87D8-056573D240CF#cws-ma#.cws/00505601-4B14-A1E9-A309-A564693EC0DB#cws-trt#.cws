@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-4B14-A1E9-A309-A564693F00DB">
+	<DocumentID>00505601-4B14-A1E9-A309-A564693EC0DB</DocumentID>
+	<Name>00505601-4B14-A1E9-A309-A564693EC0DB</Name>
+	<Description>Find Flights</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2019-06-11T09:05:21.566</CreationDate>
+	<Notes/>
+	<Text>Find Flights</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-4B14-A1E9-A309-A564693E40DB"
+		/>
+	</TextIdentifier>
+</TranslatedText>

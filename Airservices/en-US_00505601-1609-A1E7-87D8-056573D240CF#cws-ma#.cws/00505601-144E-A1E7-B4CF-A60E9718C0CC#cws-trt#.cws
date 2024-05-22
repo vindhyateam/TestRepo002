@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E7-B4CF-A60E971900CC">
+	<DocumentID>00505601-144E-A1E7-B4CF-A60E9718C0CC</DocumentID>
+	<Name>00505601-144E-A1E7-B4CF-A60E9718C0CC</Name>
+	<Description>BoardingPass Form</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2017-11-27T06:46:59.41</CreationDate>
+	<Notes/>
+	<Text>BoardingPass Form</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E7-B4CF-A60E971840CC"
+		/>
+	</TextIdentifier>
+</TranslatedText>

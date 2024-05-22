@@ -1,0 +1,76 @@
+
+<Form
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.form.Form"
+	typeVersion="833DF4E2-F154-4679-903D-BB3C991CF7CA"
+	RuntimeDocumentID="00505601-144E-A1E8-86DF-AFEFCBB100CD">
+	<DocumentID>00505601-144E-A1E8-86DF-AFEFCBB0C0CD</DocumentID>
+	<Name>DamagebyBirdStrike</Name>
+	<Description>Damage caused by bird strike</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-02-27T05:28:22.568</CreationDate>
+	<Notes/>
+	<FormType></FormType>
+	<BuildingBlock>
+		<uri
+			id="00505601-144E-A1E8-86DF-8F2F805100CD"
+		/>
+	</BuildingBlock>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="00505601-144E-A1E8-86DF-AFEFCBAF00CD">
+			<DocumentID>00505601-144E-A1E8-86DF-AFEFCBAEC0CD</DocumentID>
+			<Name>00505601-144E-A1E8-86DF-AFEFCBAEC0CD</Name>
+			<Description>00505601-144E-A1E8-86DF-AFEFCBAEC0CD</Description>
+			<CreatedBy>Alapati SivaKumar</CreatedBy>
+			<CreationDate>2018-02-27T05:28:22.568</CreationDate>
+			<Notes/>
+			<DeveloperText>Damage by Bird Strike</DeveloperText>
+			<Identifier>
+				<uri
+					id="00505601-144E-A1E8-86DF-AFEFCBAF40CD"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<FormComponents>
+		<FormComponent
+			type="com.cordys.entity.buildingblocks.form.FormComponent"
+			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			RuntimeDocumentID="00505601-144E-A1E8-86DF-AFEFCBB080CD">
+			<DocumentID>00505601-144E-A1E8-86DF-AFEFCBB040CD</DocumentID>
+			<Name>FormsFragment</Name>
+			<Description>FormsFragment</Description>
+			<CreatedBy>Alapati SivaKumar</CreatedBy>
+			<CreationDate>2018-02-27T05:28:22.553</CreationDate>
+			<Notes/>
+			<ComponentId>1</ComponentId>
+			<ComponentParentId>00505601-144E-A1E8-86DF-AFEFCBB0C0CD</ComponentParentId>
+			<ComponentType>FormsFragment</ComponentType>
+			<Definition>{&quot;title&quot;:&quot;&quot;,&quot;nextHTMLContainerID&quot;:100,&quot;nextHTMLElementID&quot;:100,&quot;nextComponentID&quot;:100,&quot;layout&quot;:{&quot;style&quot;:{&quot;overflow&quot;:&quot;hidden&quot;,&quot;label_fontWeight&quot;:&quot;&quot;}},&quot;presentationOptions&quot;:{&quot;fontSize&quot;:&quot;&quot;,&quot;textDecoration&quot;:&quot;&quot;,&quot;color&quot;:&quot;&quot;,&quot;fontWeight&quot;:&quot;&quot;,&quot;fontStyle&quot;:&quot;&quot;,&quot;fontFamily&quot;:&quot;&quot;}}</Definition>
+			<ElementType>FormTopContainerComponentType</ElementType>
+			<ElementTypeId>F1A7C0249CA3464CAE09FF03CE40B3E6</ElementTypeId>
+			<IsContainer>true</IsContainer>
+			<Action/>
+			<ConstrainByRelationship/>
+			<CustomScript/>
+			<FilterCriteria/>
+			<Form/>
+			<FormComponentCategories/>
+			<FormComponentDateFormat/>
+			<FormComponentDateTimeFormat/>
+			<Image/>
+			<LocalizableLabel/>
+			<LocalizableTooltip/>
+			<ParentComponent/>
+			<PathRelationships/>
+			<PickerWorklist/>
+			<Property/>
+			<Relationship/>
+			<RelationshipPath/>
+		</FormComponent>
+	</FormComponents>
+	<Original/>
+</Form>

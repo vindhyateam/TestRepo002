@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-2F73-A1E8-969E-C631F7CD80D6">
+	<DocumentID>00505601-2F73-A1E8-969E-C631F7CD40D6</DocumentID>
+	<Name>00505601-2F73-A1E8-969E-C631F7CD40D6</Name>
+	<Description>Terms&amp;Conditions Layout</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-05-18T09:09:41.185</CreationDate>
+	<Notes/>
+	<DefaultText>Terms&amp;Conditions Layout</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-144E-A1E7-A715-8E5D787C80C7"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-2F73-A1E8-969E-C631F7CDC0D6"
+		/>
+	</Translations>
+</TextIdentifier>

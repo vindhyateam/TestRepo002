@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2F73-A1E8-8C2F-99DA28F580CA">
+	<DocumentID>00505601-2F73-A1E8-8C2F-99DA28F540CA</DocumentID>
+	<Name>00505601-2F73-A1E8-8C2F-99DA28F540CA</Name>
+	<Description>Baggage Handling System</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-03-26T06:36:01.012</CreationDate>
+	<Notes/>
+	<Text>Baggage Handling System</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2F73-A1E8-8C2F-99DA28F4C0CA"
+		/>
+	</TextIdentifier>
+</TranslatedText>

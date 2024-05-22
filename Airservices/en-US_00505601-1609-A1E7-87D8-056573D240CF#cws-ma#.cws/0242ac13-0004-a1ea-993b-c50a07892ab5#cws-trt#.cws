@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="0242ac13-0004-a1ea-993b-c50a07b12ab5">
+	<DocumentID>0242ac13-0004-a1ea-993b-c50a07892ab5</DocumentID>
+	<Name>0242ac13-0004-a1ea-993b-c50a07892ab5</Name>
+	<Description>Paytm</Description>
+	<CreatedBy>Administrator</CreatedBy>
+	<CreationDate>2020-03-13T05:56:29.871</CreationDate>
+	<Notes/>
+	<Text>Paytm</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="0242ac13-0004-a1ea-993b-c50a0736aab5"
+		/>
+	</TextIdentifier>
+</TranslatedText>

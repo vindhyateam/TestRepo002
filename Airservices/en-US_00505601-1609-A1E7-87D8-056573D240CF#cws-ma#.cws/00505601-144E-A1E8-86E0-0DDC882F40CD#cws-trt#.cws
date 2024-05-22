@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E8-86E0-0DDC882F80CD">
+	<DocumentID>00505601-144E-A1E8-86E0-0DDC882F40CD</DocumentID>
+	<Name>00505601-144E-A1E8-86E0-0DDC882F40CD</Name>
+	<Description>Air Intakes check</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-02-27T05:38:19.564</CreationDate>
+	<Notes/>
+	<Text>Air Intakes check</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E8-86E0-0DDC882EC0CD"
+		/>
+	</TextIdentifier>
+</TranslatedText>

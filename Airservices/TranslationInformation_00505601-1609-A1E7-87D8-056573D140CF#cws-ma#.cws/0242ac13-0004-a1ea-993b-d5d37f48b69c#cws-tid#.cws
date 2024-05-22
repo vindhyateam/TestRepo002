@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="0242ac13-0004-a1ea-993b-d5d37f6bb69c">
+	<DocumentID>0242ac13-0004-a1ea-993b-d5d37f48b69c</DocumentID>
+	<Name>0242ac13-0004-a1ea-993b-d5d37f48b69c</Name>
+	<Description>Gateway</Description>
+	<CreatedBy>Administrator</CreatedBy>
+	<CreationDate>2020-03-13T05:56:29.874</CreationDate>
+	<Notes/>
+	<DefaultText>Gateway</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="0242ac13-0004-a1ea-993b-d5d37f8eb69c"
+		/>
+	</Translations>
+</TextIdentifier>

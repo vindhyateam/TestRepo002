@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E7-AF4A-FD4B2BE8C0CA">
+	<DocumentID>00505601-144E-A1E7-AF4A-FD4B2BE880CA</DocumentID>
+	<Name>00505601-144E-A1E7-AF4A-FD4B2BE880CA</Name>
+	<Description>Cathay website has been merged into cathaypacific.com, making it easier for you to plan your journey. Below, you can access a range of Cathay online services as well as other helpful links.</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-10-30T04:59:37.233</CreationDate>
+	<Notes/>
+	<Text>Cathay website has been merged into cathaypacific.com, making it easier for you to plan your journey. Below, you can access a range of Cathay online services as well as other helpful links.</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E7-AF4A-FD4B2BE800CA"
+		/>
+	</TextIdentifier>
+</TranslatedText>

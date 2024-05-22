@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-23f2-a1e7-b831-3730f99119dd">
+	<DocumentID>00505601-23f2-a1e7-b831-3730f97a99dd</DocumentID>
+	<Name>00505601-23f2-a1e7-b831-3730f97a99dd</Name>
+	<Description>Book Now to Get 20% off</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-12-15T09:32:26.207</CreationDate>
+	<Notes/>
+	<Text>Book Now to Get 20% off</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-23f2-a1e7-b831-3730f94119dd"
+		/>
+	</TextIdentifier>
+</TranslatedText>

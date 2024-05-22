@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2F73-A1E8-8C60-57031B3480CA">
+	<DocumentID>00505601-2F73-A1E8-8C60-57031B3440CA</DocumentID>
+	<Name>00505601-2F73-A1E8-8C60-57031B3440CA</Name>
+	<Description>Boarding and Baggage Process</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-03-27T05:45:01.963</CreationDate>
+	<Notes/>
+	<Text>Boarding and Baggage Process</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2F73-A1E8-8C60-57031B33C0CA"
+		/>
+	</TextIdentifier>
+</TranslatedText>

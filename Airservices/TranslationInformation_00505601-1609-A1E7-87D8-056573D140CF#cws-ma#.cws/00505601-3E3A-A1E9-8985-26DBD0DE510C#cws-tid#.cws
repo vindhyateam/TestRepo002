@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-3E3A-A1E9-8985-26DBD0DE910C">
+	<DocumentID>00505601-3E3A-A1E9-8985-26DBD0DE510C</DocumentID>
+	<Name>00505601-3E3A-A1E9-8985-26DBD0DE510C</Name>
+	<Description>AvionicsEngineer</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2019-02-01T11:44:24.389</CreationDate>
+	<Notes/>
+	<DefaultText>AvionicsEngineer</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-3E3A-A1E9-8985-26DBD0DED10C"
+		/>
+	</Translations>
+</TextIdentifier>

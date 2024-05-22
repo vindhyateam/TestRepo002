@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="C4D98767-E60B-A1E7-92AD-5143AD114820">
+	<DocumentID>C4D98767-E60B-A1E7-92AD-5143AD110820</DocumentID>
+	<Name>C4D98767-E60B-A1E7-92AD-5143AD110820</Name>
+	<Description>AirLine Logo</Description>
+	<CreatedBy>svtuser</CreatedBy>
+	<CreationDate>2017-06-06T13:17:11.517</CreationDate>
+	<Notes/>
+	<Text>AirLine Logo</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="C4D98767-E60B-A1E7-92AD-5143AD108820"
+		/>
+	</TextIdentifier>
+</TranslatedText>

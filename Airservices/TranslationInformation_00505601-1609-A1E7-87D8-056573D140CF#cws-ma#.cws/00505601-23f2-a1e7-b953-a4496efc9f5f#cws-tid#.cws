@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-23f2-a1e7-b953-a4496f0b9f5f">
+	<DocumentID>00505601-23f2-a1e7-b953-a4496efc9f5f</DocumentID>
+	<Name>00505601-23f2-a1e7-b953-a4496efc9f5f</Name>
+	<Description>&lt; Previous</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-12-20T06:25:33.72</CreationDate>
+	<Notes/>
+	<DefaultText>&lt; Previous</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-23f2-a1e7-b953-a4496f1d1f5f"
+		/>
+	</Translations>
+</TextIdentifier>

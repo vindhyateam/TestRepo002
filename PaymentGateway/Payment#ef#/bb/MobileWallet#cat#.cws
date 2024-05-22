@@ -1,0 +1,19 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="00505601-144E-A1E7-A745-59D69F6AC0C7">
+	<DocumentID>00505601-144E-A1E7-A745-59D69F6A80C7</DocumentID>
+	<Name>MobileWallet</Name>
+	<Description>MobileWallet</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-09-19T08:50:06.014</CreationDate>
+	<Notes/>
+	<referenceCount>2</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="00505601-144E-A1E7-A73F-DBBFD520C0C7"
+		/>
+	</BuildingBlock>
+	<Original/>
+</Category>

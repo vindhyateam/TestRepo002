@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1609-A1E7-9016-56D8AA4080CF">
+	<DocumentID>00505601-1609-A1E7-9016-56D8AA4040CF</DocumentID>
+	<Name>00505601-1609-A1E7-9016-56D8AA4040CF</Name>
+	<Description>Passport Number</Description>
+	<CreatedBy>svtuser</CreatedBy>
+	<CreationDate>2017-05-24T08:23:17.102</CreationDate>
+	<Notes/>
+	<Text>Passport Number</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1609-A1E7-9016-56D8AA3FC0CF"
+		/>
+	</TextIdentifier>
+</TranslatedText>

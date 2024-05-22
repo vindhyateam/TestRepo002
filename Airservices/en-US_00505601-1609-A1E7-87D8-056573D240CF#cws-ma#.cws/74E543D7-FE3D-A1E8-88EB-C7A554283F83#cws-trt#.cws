@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="74E543D7-FE3D-A1E8-88EB-C7A554287F83">
+	<DocumentID>74E543D7-FE3D-A1E8-88EB-C7A554283F83</DocumentID>
+	<Name>74E543D7-FE3D-A1E8-88EB-C7A554283F83</Name>
+	<Description>Aircraft History</Description>
+	<CreatedBy>Alapati Siva Kumar</CreatedBy>
+	<CreationDate>2018-03-09T15:40:04.729</CreationDate>
+	<Notes/>
+	<Text>Aircraft History</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="74E543D7-FE3D-A1E8-88EB-C7A55427BF83"
+		/>
+	</TextIdentifier>
+</TranslatedText>

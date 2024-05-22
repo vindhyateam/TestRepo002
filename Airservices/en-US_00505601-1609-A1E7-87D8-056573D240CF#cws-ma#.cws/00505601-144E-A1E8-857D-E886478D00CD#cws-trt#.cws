@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E8-857D-E886478D40CD">
+	<DocumentID>00505601-144E-A1E8-857D-E886478D00CD</DocumentID>
+	<Name>00505601-144E-A1E8-857D-E886478D00CD</Name>
+	<Description>SetAvailability</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-02-20T06:49:16.657</CreationDate>
+	<Notes/>
+	<Text>SetAvailability</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E8-857D-E886478C80CD"
+		/>
+	</TextIdentifier>
+</TranslatedText>

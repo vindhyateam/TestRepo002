@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2F73-A1E8-89D3-422B2682C0C9">
+	<DocumentID>00505601-2F73-A1E8-89D3-422B268280C9</DocumentID>
+	<Name>00505601-2F73-A1E8-89D3-422B268280C9</Name>
+	<Description/>
+	<CreatedBy>alapatik@otds.admin</CreatedBy>
+	<CreationDate>2018-03-14T06:00:55.03</CreationDate>
+	<Notes/>
+	<Text>&quot;Schedule Departure should be on Date of Journey&quot;</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2F73-A1E8-89D3-422B268180C9"
+		/>
+	</TextIdentifier>
+</TranslatedText>

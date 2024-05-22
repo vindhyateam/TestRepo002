@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1DB4-A1E7-9465-B770665B00CE">
+	<DocumentID>00505601-1DB4-A1E7-9465-B770665AC0CE</DocumentID>
+	<Name>00505601-1DB4-A1E7-9465-B770665AC0CE</Name>
+	<Description>Proceed Booking</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-06-15T09:45:15.951</CreationDate>
+	<Notes/>
+	<Text>Proceed Booking</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1DB4-A1E7-9465-B770665A40CE"
+		/>
+	</TextIdentifier>
+</TranslatedText>

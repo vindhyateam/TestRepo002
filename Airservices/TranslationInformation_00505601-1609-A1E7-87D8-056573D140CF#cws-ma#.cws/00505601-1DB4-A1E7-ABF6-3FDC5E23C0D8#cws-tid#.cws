@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-1DB4-A1E7-ABF6-3FDC5E2400D8">
+	<DocumentID>00505601-1DB4-A1E7-ABF6-3FDC5E23C0D8</DocumentID>
+	<Name>00505601-1DB4-A1E7-ABF6-3FDC5E23C0D8</Name>
+	<Description>Passenger</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-10-13T07:09:23.463</CreationDate>
+	<Notes/>
+	<DefaultText>Passenger</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-1DB4-A1E7-ABF6-3FDC5E2440D8"
+		/>
+	</Translations>
+</TextIdentifier>

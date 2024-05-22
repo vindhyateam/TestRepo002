@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="0242ac13-0004-a1ea-993b-d5d37fb1b69c">
+	<DocumentID>0242ac13-0004-a1ea-993b-d5d37f8eb69c</DocumentID>
+	<Name>0242ac13-0004-a1ea-993b-d5d37f8eb69c</Name>
+	<Description>Gateway</Description>
+	<CreatedBy>Administrator</CreatedBy>
+	<CreationDate>2020-03-13T05:56:29.87</CreationDate>
+	<Notes/>
+	<Text>Gateway</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="0242ac13-0004-a1ea-993b-d5d37f48b69c"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E8-88AE-4F4E460100CE">
+	<DocumentID>00505601-144E-A1E8-88AE-4F4E4600C0CE</DocumentID>
+	<Name>00505601-144E-A1E8-88AE-4F4E4600C0CE</Name>
+	<Description>Maintenance Actionbar</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-03-08T10:53:53.515</CreationDate>
+	<Notes/>
+	<Text>Maintenance Actionbar</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E8-88AE-4F4E460040CE"
+		/>
+	</TextIdentifier>
+</TranslatedText>

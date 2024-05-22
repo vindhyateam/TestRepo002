@@ -1,0 +1,73 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="00505601-144E-A1E7-AF54-E6DC1BEA80CA">
+	<DocumentID>00505601-144E-A1E7-AF54-E6DC1BEA40CA</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-10-30T09:22:57.115</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="00505601-144E-A1E7-AF54-E6DC1BE9C0CA">
+			<DocumentID>00505601-144E-A1E7-AF54-E6DC1BE980CA</DocumentID>
+			<Name>CreateFlightOffers</Name>
+			<Description>Create FlightOffers</Description>
+			<CreatedBy>administrator</CreatedBy>
+			<CreationDate>2017-10-30T09:22:57.115</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="00505601-144E-A1E7-AF50-6FCE8BE600CA"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="00505601-144E-A1E7-AF50-6FCE8BE600CA"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="00505601-144E-A1E7-AF54-E6DC1BE940CA">
+			<DocumentID>00505601-144E-A1E7-AF54-E6DC1BE900CA</DocumentID>
+			<Name>ReadFlightOffers</Name>
+			<Description>Read FlightOffers</Description>
+			<CreatedBy>administrator</CreatedBy>
+			<CreationDate>2017-10-30T09:22:57.115</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="00505601-144E-A1E7-AF50-6FCE8BE600CA"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="00505601-144E-A1E7-AF54-E6DC1BE8C0CA">
+			<DocumentID>00505601-144E-A1E7-AF54-E6DC1BE880CA</DocumentID>
+			<Name>UpdateFlightOffers</Name>
+			<Description>Update FlightOffers</Description>
+			<CreatedBy>administrator</CreatedBy>
+			<CreationDate>2017-10-30T09:22:57.115</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="00505601-144E-A1E7-AF50-6FCE8BE600CA"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

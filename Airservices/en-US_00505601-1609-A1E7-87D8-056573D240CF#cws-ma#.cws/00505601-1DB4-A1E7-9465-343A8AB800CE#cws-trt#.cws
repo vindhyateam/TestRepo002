@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1DB4-A1E7-9465-343A8AB840CE">
+	<DocumentID>00505601-1DB4-A1E7-9465-343A8AB800CE</DocumentID>
+	<Name>00505601-1DB4-A1E7-9465-343A8AB800CE</Name>
+	<Description>Ticket Price</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-06-15T06:36:36.124</CreationDate>
+	<Notes/>
+	<Text>Ticket Price</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1DB4-A1E7-9465-343A8AB780CE"
+		/>
+	</TextIdentifier>
+</TranslatedText>

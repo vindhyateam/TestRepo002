@@ -1,0 +1,100 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="00505601-144E-A1E7-AF7E-0C3A80EF40CB">
+	<DocumentID>00505601-144E-A1E7-AF7E-0C3A80EF00CB</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-10-31T05:32:16.701</CreationDate>
+	<Notes/>
+	<CreateOperation/>
+	<DeleteOperation/>
+	<Entity>
+		<uri
+			id="00505601-1609-A1E7-87D8-949622F040CF"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="00505601-144E-A1E8-85E5-E19DBA7400CD">
+			<DocumentID>00505601-144E-A1E8-85E5-E19DBA73C0CD</DocumentID>
+			<Name>ReadAirService</Name>
+			<Description>Read AirService</Description>
+			<CreatedBy>Alapati SivaKumar</CreatedBy>
+			<CreationDate>2018-02-22T06:34:11.851</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="00505601-1609-A1E7-87D8-949622F040CF"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations>
+		<EntityWebServiceRelationshipOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceRelationshipOperation"
+			RuntimeDocumentID="00505601-144E-A1E7-AF7E-0C3A80EE40CB">
+			<DocumentID>00505601-144E-A1E7-AF7E-0C3A80EE00CB</DocumentID>
+			<Name>SetSelectAirCraft</Name>
+			<Description>Untitled Entity Web Service Relationship Operation</Description>
+			<CreatedBy>administrator</CreatedBy>
+			<CreationDate>2017-10-31T05:32:16.701</CreationDate>
+			<Notes/>
+			<OperationType>SetOne</OperationType>
+			<Entity>
+				<uri
+					id="00505601-1609-A1E7-87D8-949622F040CF"
+				/>
+			</Entity>
+			<Relationship>
+				<uri
+					id="00505601-1609-A1E7-8FE2-DD6B0F0100CF"
+				/>
+			</Relationship>
+		</EntityWebServiceRelationshipOperation>
+		<EntityWebServiceRelationshipOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceRelationshipOperation"
+			RuntimeDocumentID="00505601-144E-A1E8-85E5-E19DBA7340CD">
+			<DocumentID>00505601-144E-A1E8-85E5-E19DBA7300CD</DocumentID>
+			<Name>ClearSelectAirCraft</Name>
+			<Description>Untitled Entity Web Service Relationship Operation</Description>
+			<CreatedBy>Alapati SivaKumar</CreatedBy>
+			<CreationDate>2018-02-22T06:34:11.851</CreationDate>
+			<Notes/>
+			<OperationType>ClearOne</OperationType>
+			<Entity>
+				<uri
+					id="00505601-1609-A1E7-87D8-949622F040CF"
+				/>
+			</Entity>
+			<Relationship>
+				<uri
+					id="00505601-1609-A1E7-8FE2-DD6B0F0100CF"
+				/>
+			</Relationship>
+		</EntityWebServiceRelationshipOperation>
+	</RelationshipOperations>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="00505601-2F73-A1E8-94A2-3EC70EB800D4">
+			<DocumentID>00505601-2F73-A1E8-94A2-3EC70EB7C0D4</DocumentID>
+			<Name>UpdateAirService</Name>
+			<Description>Update AirService</Description>
+			<CreatedBy>Alapati SivaKumar</CreatedBy>
+			<CreationDate>2018-05-08T06:45:01.815</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="00505601-1609-A1E7-87D8-949622F040CF"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

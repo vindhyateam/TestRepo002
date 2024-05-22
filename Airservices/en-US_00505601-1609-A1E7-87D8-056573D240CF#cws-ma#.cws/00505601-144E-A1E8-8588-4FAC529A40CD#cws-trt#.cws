@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E8-8588-4FAC529A80CD">
+	<DocumentID>00505601-144E-A1E8-8588-4FAC529A40CD</DocumentID>
+	<Name>00505601-144E-A1E8-8588-4FAC529A40CD</Name>
+	<Description>DummyRule</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-02-20T09:37:17.09</CreationDate>
+	<Notes/>
+	<Text>DummyRule</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E8-8588-4FAC5299C0CD"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-23f2-a1e7-b929-a889385aa602">
+	<DocumentID>00505601-23f2-a1e7-b929-a889384ba602</DocumentID>
+	<Name>00505601-23f2-a1e7-b929-a889384ba602</Name>
+	<Description>Airservice PreviewForm</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-12-19T10:30:58.129</CreationDate>
+	<Notes/>
+	<Text>Airservice PreviewForm</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-23f2-a1e7-b929-a889382b2602"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="C4D98767-E60B-A1E7-9171-CD389DB75FD6">
+	<DocumentID>C4D98767-E60B-A1E7-9171-CD389DB71FD6</DocumentID>
+	<Name>C4D98767-E60B-A1E7-9171-CD389DB71FD6</Name>
+	<Description>Bookingpage Design2</Description>
+	<CreatedBy>svtuser</CreatedBy>
+	<CreationDate>2017-05-31T09:04:33.442</CreationDate>
+	<Notes/>
+	<DefaultText>Bookingpage Design2</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="C4D98767-E60B-A1E7-9171-CD389DB79FD6"
+		/>
+	</Translations>
+</TextIdentifier>

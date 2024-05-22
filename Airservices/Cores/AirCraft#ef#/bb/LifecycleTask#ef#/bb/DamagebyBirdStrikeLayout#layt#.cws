@@ -1,0 +1,79 @@
+
+<Layout
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.layout.Layout"
+	RuntimeDocumentID="00505601-144E-A1E8-86E0-0DDC882D80CD">
+	<DocumentID>00505601-144E-A1E8-86E0-0DDC882D40CD</DocumentID>
+	<Name>DamagebyBirdStrikeLayout</Name>
+	<Description>Damage caused by Bird Strike</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-02-27T05:38:19.564</CreationDate>
+	<Notes/>
+	<Definition>{&quot;layoutType&quot;:&quot;object&quot;,&quot;id&quot;:&quot;00505601-144E-A1E8-86E0-0DDC882D40CD&quot;,&quot;layoutPanelType&quot;:&quot;FitToScreen&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;27009dc11bdd192e2945171e5f14cc2f&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;afdf4492fbe9a47be8b7e2e17bcac1b3&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;a75e3099a3f5054a9a4fb7740175fc9d&quot;,&quot;nodes&quot;:[]}]}]}</Definition>
+	<HelpURL></HelpURL>
+	<HideCreateAction>false</HideCreateAction>
+	<IncludeInCreate>false</IncludeInCreate>
+	<IsFullLayout>true</IsFullLayout>
+	<IsPreviewLayout>false</IsPreviewLayout>
+	<LayoutPanelType>FitToScreen</LayoutPanelType>
+	<LayoutType>0</LayoutType>
+	<ShowFirstTab>false</ShowFirstTab>
+	<ActionBarAssociations/>
+	<BuildingBlock>
+		<uri
+			id="00505601-144E-A1E8-86DF-AFEFCBA800CD"
+		/>
+	</BuildingBlock>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="00505601-144E-A1E8-86E0-0DDC882B00CD">
+			<DocumentID>00505601-144E-A1E8-86E0-0DDC882AC0CD</DocumentID>
+			<Name>00505601-144E-A1E8-86E0-0DDC882AC0CD</Name>
+			<Description>00505601-144E-A1E8-86E0-0DDC882AC0CD</Description>
+			<CreatedBy>Alapati SivaKumar</CreatedBy>
+			<CreationDate>2018-02-27T05:38:19.564</CreationDate>
+			<Notes/>
+			<DeveloperText>Damage by Bird Strike</DeveloperText>
+			<Identifier>
+				<uri
+					id="00505601-144E-A1E8-86DF-AFEFCBAF40CD"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<FormAssociations/>
+	<Image/>
+	<LayoutAssociations/>
+	<LayoutPanels>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="c8470923-66b0-4ff2-aeda-2313082203a3"
+			RuntimeDocumentID="00505601-A9A7-A1EC-844A-7FD9E4167B65">
+			<DocumentID>00505601-A9A7-A1EC-844A-7FD9E4163B65</DocumentID>
+			<Name>Breadcrumbs</Name>
+			<Description/>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2021-09-09T05:22:46.215</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;F2F761CA44844DBABCEDD7B6FF1EEBDD&quot;,&quot;sourceName&quot;:&quot;Breadcrumbs&quot;,&quot;chrome&quot;:&quot;none&quot;,&quot;id&quot;:&quot;afdf4492fbe9a47be8b7e2e17bcac1b3&quot;,&quot;imageQualifiedName&quot;:null,&quot;properties&quot;:[]}</Definition>
+			<DisplayName>Breadcrumbs</DisplayName>
+			<ModelerId>afdf4492fbe9a47be8b7e2e17bcac1b3</ModelerId>
+			<SourceId>F2F761CA44844DBABCEDD7B6FF1EEBDD</SourceId>
+			<SourceName>Breadcrumbs</SourceName>
+			<ActionBarAssociation/>
+			<CustomScript/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<LocalizableDisplayName/>
+			<PanelIcon/>
+			<WorklistAssociation/>
+			<XFormAssociation/>
+		</LayoutPanel>
+	</LayoutPanels>
+	<Original/>
+	<WorklistAssociations/>
+	<XFormAssociations/>
+</Layout>

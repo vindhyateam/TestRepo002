@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="C4D98767-E607-A1E7-9337-17DEC652FEDD">
+	<DocumentID>C4D98767-E607-A1E7-9337-17DEC652BEDD</DocumentID>
+	<Name>C4D98767-E607-A1E7-9337-17DEC652BEDD</Name>
+	<Description>Economy</Description>
+	<CreatedBy>svtuser</CreatedBy>
+	<CreationDate>2017-06-09T06:55:19.239</CreationDate>
+	<Notes/>
+	<Text>Economy</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="C4D98767-E607-A1E7-9337-17DEC6523EDD"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,19 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="00505601-144E-A1E7-ACC0-B145B41B80CA">
+	<DocumentID>00505601-144E-A1E7-ACC0-B145B41B40CA</DocumentID>
+	<Name>Page6</Name>
+	<Description>Page6</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-10-17T06:30:51.927</CreationDate>
+	<Notes/>
+	<referenceCount>2</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="C4D98767-E607-A1E7-908C-1A771FB7357B"
+		/>
+	</BuildingBlock>
+	<Original/>
+</Category>

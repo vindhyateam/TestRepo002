@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E7-B4D0-96794BDC80CC">
+	<DocumentID>00505601-144E-A1E7-B4D0-96794BDC40CC</DocumentID>
+	<Name>00505601-144E-A1E7-B4D0-96794BDC40CC</Name>
+	<Description>Not Yet Boarded</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2017-11-27T07:13:22.791</CreationDate>
+	<Notes/>
+	<Text>Not Yet Boarded</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E7-B4D0-96794BDBC0CC"
+		/>
+	</TextIdentifier>
+</TranslatedText>

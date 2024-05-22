@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1DB4-A1E7-ABF3-212E5A4F00D8">
+	<DocumentID>00505601-1DB4-A1E7-ABF3-212E5A4EC0D8</DocumentID>
+	<Name>00505601-1DB4-A1E7-ABF3-212E5A4EC0D8</Name>
+	<Description>Get On Board</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-10-13T04:17:46.751</CreationDate>
+	<Notes/>
+	<Text>Get On Board</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1DB4-A1E7-ABF3-212E5A4E40D8"
+		/>
+	</TextIdentifier>
+</TranslatedText>

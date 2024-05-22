@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-144E-A1E7-AF56-DC4F750FC0CA">
+	<DocumentID>00505601-144E-A1E7-AF56-DC4F750F80CA</DocumentID>
+	<Name>00505601-144E-A1E7-AF56-DC4F750F80CA</Name>
+	<Description>Destination2</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-10-30T10:39:35.04</CreationDate>
+	<Notes/>
+	<DefaultText>Destination2</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-144E-A1E7-AF56-DC4F751000CA"
+		/>
+	</Translations>
+</TextIdentifier>

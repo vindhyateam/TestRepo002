@@ -1,0 +1,20 @@
+
+<WebSource
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.websource.WebSource"
+	RuntimeDocumentID="00505601-1609-A1E7-8F13-6C95806380CE">
+	<DocumentID>00505601-1609-A1E7-8F13-6C95806340CE</DocumentID>
+	<Name>Media Library Definition</Name>
+	<Description>Media Library Definition</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-05-19T04:58:04.269</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<SourceFolder>
+		<uri
+			id="3CE1A1C1-A5FE-A1EF-85D8-944EB1DF0844"
+			path="Airservices/Images"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+</WebSource>

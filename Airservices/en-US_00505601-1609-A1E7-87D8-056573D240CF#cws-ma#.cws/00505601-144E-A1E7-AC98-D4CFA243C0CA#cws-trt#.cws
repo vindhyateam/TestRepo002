@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E7-AC98-D4CFA24400CA">
+	<DocumentID>00505601-144E-A1E7-AC98-D4CFA243C0CA</DocumentID>
+	<Name>00505601-144E-A1E7-AC98-D4CFA243C0CA</Name>
+	<Description>Add Luggage</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-10-16T11:20:24.429</CreationDate>
+	<Notes/>
+	<Text>Add Luggage</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E7-AC98-D4CFA24340CA"
+		/>
+	</TextIdentifier>
+</TranslatedText>

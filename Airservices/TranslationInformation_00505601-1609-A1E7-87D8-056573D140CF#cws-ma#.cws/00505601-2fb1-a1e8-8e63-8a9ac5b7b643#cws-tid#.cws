@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-2fb1-a1e8-8e63-8a9ac5c1b643">
+	<DocumentID>00505601-2fb1-a1e8-8e63-8a9ac5b7b643</DocumentID>
+	<Name>00505601-2fb1-a1e8-8e63-8a9ac5b7b643</Name>
+	<Description>250 INR per 1KG/2.2lbs</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-04-06T11:41:20.408</CreationDate>
+	<Notes/>
+	<DefaultText>250 INR per 1KG/2.2lbs</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-2fb1-a1e8-8e63-8a9ac5cbb643"
+		/>
+	</Translations>
+</TextIdentifier>

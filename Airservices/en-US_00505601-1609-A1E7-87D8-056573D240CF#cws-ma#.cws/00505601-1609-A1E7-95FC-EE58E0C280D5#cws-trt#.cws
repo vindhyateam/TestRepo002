@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1609-A1E7-95FC-EE58E0C2C0D5">
+	<DocumentID>00505601-1609-A1E7-95FC-EE58E0C280D5</DocumentID>
+	<Name>00505601-1609-A1E7-95FC-EE58E0C280D5</Name>
+	<Description>Decision</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-06-23T09:10:35.69</CreationDate>
+	<Notes/>
+	<Text>Decision</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1609-A1E7-95FC-EE58E0C200D5"
+		/>
+	</TextIdentifier>
+</TranslatedText>

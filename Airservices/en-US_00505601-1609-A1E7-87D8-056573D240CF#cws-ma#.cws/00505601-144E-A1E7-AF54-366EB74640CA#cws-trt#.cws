@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E7-AF54-366EB74680CA">
+	<DocumentID>00505601-144E-A1E7-AF54-366EB74640CA</DocumentID>
+	<Name>00505601-144E-A1E7-AF54-366EB74640CA</Name>
+	<Description>Destination Icon</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-10-30T09:05:53.477</CreationDate>
+	<Notes/>
+	<Text>Destination Icon</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E7-AF54-366EB745C0CA"
+		/>
+	</TextIdentifier>
+</TranslatedText>

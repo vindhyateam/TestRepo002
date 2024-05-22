@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1609-A1E7-8F14-BCF9477380CE">
+	<DocumentID>00505601-1609-A1E7-8F14-BCF9477340CE</DocumentID>
+	<Name>00505601-1609-A1E7-8F14-BCF9477340CE</Name>
+	<Description>Charging</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-05-19T05:35:07.358</CreationDate>
+	<Notes/>
+	<Text>Charging</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1609-A1E7-8F14-BCF94772C0CE"
+		/>
+	</TextIdentifier>
+</TranslatedText>

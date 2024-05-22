@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1609-A1E7-8F15-A14772F340CE">
+	<DocumentID>00505601-1609-A1E7-8F15-A14772F300CE</DocumentID>
+	<Name>00505601-1609-A1E7-8F15-A14772F300CE</Name>
+	<Description>Create New AirService</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-05-19T05:53:05.233</CreationDate>
+	<Notes/>
+	<Text>Create New AirService</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1609-A1E7-8F15-A14772F280CE"
+		/>
+	</TextIdentifier>
+</TranslatedText>

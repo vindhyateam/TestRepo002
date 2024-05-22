@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="C4D98767-E607-A1E7-9337-17DEC65D7EDD">
+	<DocumentID>C4D98767-E607-A1E7-9337-17DEC65D3EDD</DocumentID>
+	<Name>C4D98767-E607-A1E7-9337-17DEC65D3EDD</Name>
+	<Description>Passenger/Cabin Class</Description>
+	<CreatedBy>svtuser</CreatedBy>
+	<CreationDate>2017-06-09T06:55:19.239</CreationDate>
+	<Notes/>
+	<DefaultText>Passenger/Cabin Class</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="C4D98767-E607-A1E7-9337-17DEC65DBEDD"
+		/>
+	</Translations>
+</TextIdentifier>

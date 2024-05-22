@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-144E-A1E7-B4FD-EA7B1A6D40CC">
+	<DocumentID>00505601-144E-A1E7-B4FD-EA7B1A6D00CC</DocumentID>
+	<Name>00505601-144E-A1E7-B4FD-EA7B1A6D00CC</Name>
+	<Description>Style CompleteyourBooking</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2017-11-28T05:34:53.059</CreationDate>
+	<Notes/>
+	<DefaultText>Style CompleteyourBooking</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-144E-A1E7-B4FD-EA7B1A6D80CC"
+		/>
+	</Translations>
+</TextIdentifier>

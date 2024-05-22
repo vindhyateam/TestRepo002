@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1609-A1E7-9011-A94BB1D340CF">
+	<DocumentID>00505601-1609-A1E7-9011-A94BB1D300CF</DocumentID>
+	<Name>00505601-1609-A1E7-9011-A94BB1D300CF</Name>
+	<Description>Aircrafts Homepage</Description>
+	<CreatedBy>svtuser</CreatedBy>
+	<CreationDate>2017-05-24T06:18:16.362</CreationDate>
+	<Notes/>
+	<Text>Aircrafts Homepage</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1609-A1E7-9011-A94BB1D280CF"
+		/>
+	</TextIdentifier>
+</TranslatedText>

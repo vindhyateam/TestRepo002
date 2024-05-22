@@ -1,0 +1,19 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="00505601-144E-A1E7-A740-50AD89B5C0C7">
+	<DocumentID>00505601-144E-A1E7-A740-50AD89B580C7</DocumentID>
+	<Name>Master</Name>
+	<Description>Master</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-09-19T06:37:07.09</CreationDate>
+	<Notes/>
+	<referenceCount>1</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="00505601-144E-A1E7-A73F-DBBFD520C0C7"
+		/>
+	</BuildingBlock>
+	<Original/>
+</Category>

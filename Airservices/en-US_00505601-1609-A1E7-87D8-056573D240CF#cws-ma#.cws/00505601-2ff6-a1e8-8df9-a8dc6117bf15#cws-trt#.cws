@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2ff6-a1e8-8df9-a8dc61293f15">
+	<DocumentID>00505601-2ff6-a1e8-8df9-a8dc6117bf15</DocumentID>
+	<Name>00505601-2ff6-a1e8-8df9-a8dc6117bf15</Name>
+	<Description>Set Add-on Payment</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-04-04T09:01:36.225</CreationDate>
+	<Notes/>
+	<Text>Set Add-on Payment</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2ff6-a1e8-8df9-a8dc60f73f15"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E8-8420-279F4561C0CC">
+	<DocumentID>00505601-144E-A1E8-8420-279F456180CC</DocumentID>
+	<Name>00505601-144E-A1E8-8420-279F456180CC</Name>
+	<Description>Update Passengers Information</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-02-13T05:44:00.129</CreationDate>
+	<Notes/>
+	<Text>Update Passengers Information</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E8-8420-279F456100CC"
+		/>
+	</TextIdentifier>
+</TranslatedText>

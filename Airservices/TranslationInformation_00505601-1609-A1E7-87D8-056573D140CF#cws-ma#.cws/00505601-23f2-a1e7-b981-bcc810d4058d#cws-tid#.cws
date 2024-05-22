@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-23f2-a1e7-b981-bcc810de058d">
+	<DocumentID>00505601-23f2-a1e7-b981-bcc810d4058d</DocumentID>
+	<Name>00505601-23f2-a1e7-b981-bcc810d4058d</Name>
+	<Description>Validate ScheduleDeparture</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-12-21T06:54:03.419</CreationDate>
+	<Notes/>
+	<DefaultText>Validate ScheduleDeparture</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-23f2-a1e7-b981-bcc810e8058d"
+		/>
+	</Translations>
+</TextIdentifier>

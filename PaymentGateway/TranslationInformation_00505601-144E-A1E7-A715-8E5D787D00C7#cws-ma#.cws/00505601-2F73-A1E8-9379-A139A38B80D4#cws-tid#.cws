@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-2F73-A1E8-9379-A139A38BC0D4">
+	<DocumentID>00505601-2F73-A1E8-9379-A139A38B80D4</DocumentID>
+	<Name>00505601-2F73-A1E8-9379-A139A38B80D4</Name>
+	<Description>&quot;Card was Expired&quot;</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-05-02T09:08:59.941</CreationDate>
+	<Notes/>
+	<DefaultText>&quot;Card was Expired&quot;</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-144E-A1E7-A715-8E5D787C80C7"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-2F73-A1E8-9379-A139A38C00D4"
+		/>
+	</Translations>
+</TextIdentifier>

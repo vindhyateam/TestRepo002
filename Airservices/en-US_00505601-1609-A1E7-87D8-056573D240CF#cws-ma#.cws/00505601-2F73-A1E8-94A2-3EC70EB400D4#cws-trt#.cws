@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2F73-A1E8-94A2-3EC70EB440D4">
+	<DocumentID>00505601-2F73-A1E8-94A2-3EC70EB400D4</DocumentID>
+	<Name>00505601-2F73-A1E8-94A2-3EC70EB400D4</Name>
+	<Description>UpdateAirService</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-05-08T06:50:50.884</CreationDate>
+	<Notes/>
+	<Text>UpdateAirService</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2F73-A1E8-94A2-3EC70EB380D4"
+		/>
+	</TextIdentifier>
+</TranslatedText>

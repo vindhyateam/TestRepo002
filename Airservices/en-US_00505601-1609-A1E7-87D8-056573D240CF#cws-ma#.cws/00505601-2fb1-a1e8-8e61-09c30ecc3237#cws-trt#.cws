@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2fb1-a1e8-8e5e-f8b81bdd13f7">
+	<DocumentID>00505601-2fb1-a1e8-8e61-09c30ecc3237</DocumentID>
+	<Name>00505601-2fb1-a1e8-8e61-09c30ecc3237</Name>
+	<Description>Excess Weight</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-04-06T10:24:30.096</CreationDate>
+	<Notes/>
+	<Text>Excess Weight</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2fb1-a1e8-8e61-09c30eb83237"
+		/>
+	</TextIdentifier>
+</TranslatedText>

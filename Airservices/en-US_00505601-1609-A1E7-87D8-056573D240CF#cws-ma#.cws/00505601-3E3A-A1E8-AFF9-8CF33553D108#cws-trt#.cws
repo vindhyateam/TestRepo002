@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-3E3A-A1E8-AFF9-8CF335541108">
+	<DocumentID>00505601-3E3A-A1E8-AFF9-8CF33553D108</DocumentID>
+	<Name>00505601-3E3A-A1E8-AFF9-8CF33553D108</Name>
+	<Description>Airservice Manager</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-09-24T10:48:22.991</CreationDate>
+	<Notes/>
+	<Text>Airservice Manager</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-3E3A-A1E8-AFF9-8CF335535108"
+		/>
+	</TextIdentifier>
+</TranslatedText>

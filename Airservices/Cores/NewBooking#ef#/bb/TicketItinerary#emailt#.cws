@@ -1,0 +1,53 @@
+
+<EmailTemplate
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.emailtemplate.EmailTemplate"
+	typeVersion="412DF035-34A8-4C64-AAFC-CF99BE058FFC"
+	RuntimeDocumentID="00505601-23f2-a1e7-b78d-f64b32e888d4">
+	<DocumentID>00505601-23f2-a1e7-b78d-f64b32d988d4</DocumentID>
+	<Name>TicketItinerary</Name>
+	<Description>TicketItinerary</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-12-11T05:59:53.651</CreationDate>
+	<Notes/>
+	<Bcc></Bcc>
+	<Body>Hello {User.Properties.UserId},&lt;br /&gt;
+&lt;br /&gt;
+Thank you for choosing&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color:#ffffff&quot;&gt;&lt;span style=&quot;font-size:16px&quot;&gt;&lt;span style=&quot;background-color:#008000&quot;&gt;&lt;strong&gt;CATHAY&amp;nbsp;&lt;/strong&gt;&lt;/span&gt;&lt;strong&gt;&lt;span style=&quot;background-color:#ff0000&quot;&gt;PACIFIC&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;{item.SearchAirservice.Properties.AirServiceNo}&lt;br /&gt;
+Total Price for your booking: {item.Properties.GrandTotal}&lt;br /&gt;
+{item.SearchAirservice.Properties.TotalPrice}&lt;br /&gt;
+Complete your booking to confirm your Trip &lt;strong&gt;&lt;a href=&quot;http://10.96.73.46:8080/home/kumar/app/processExperience/web/perform/items/{item.Identity.ItemId}/00505601144EA1E7B39EF0F5F6F9C0CB/afa82fb15c1b3fb08b4f419d74bfa8d2/L2hvbWUva3VtYXIvYXBwL2VudGl0eVJlc3RTZXJ2aWNlL0l0ZW1zKDAwNTA1NjAxMTYwOUExRTc4N0Q4OTQ5NjIyRjA4MENGLjIpL0ltYWdlP2l2PTE1MTIxMDM4MDc3OTQmbmFtZT1BaXJMaW5lTG9nbw%253D%253D&quot;&gt;BookNow&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+Regards,&lt;br /&gt;
+Cathay pacific Team</Body>
+	<CC></CC>
+	<IsVisibleToEndUser>true</IsVisibleToEndUser>
+	<Subject>Price Quotation for the Trip:{item.Properties.From} - {item.Properties.To}</Subject>
+	<To></To>
+	<BuildingBlock>
+		<uri
+			id="00505601-23f2-a1e7-b78d-f64b32fa08d4"
+		/>
+	</BuildingBlock>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="00505601-23f2-a1e7-b78d-f64b32c808d4">
+			<DocumentID>00505601-23f2-a1e7-b78d-f64b32b908d4</DocumentID>
+			<Name>00505601-23f2-a1e7-b78d-f64b32b908d4</Name>
+			<Description>00505601-23f2-a1e7-b78d-f64b32b908d4</Description>
+			<CreatedBy>siva</CreatedBy>
+			<CreationDate>2017-12-11T05:59:53.667</CreationDate>
+			<Notes/>
+			<DeveloperText>Ticket Itinerary</DeveloperText>
+			<Identifier>
+				<uri
+					id="00505601-1DB4-A1E7-AB9F-9C4872B6C0D7"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<Original/>
+	<TypeDefinition/>
+</EmailTemplate>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="C4D98767-E607-A1E7-908B-B7FF7F75357B">
+	<DocumentID>C4D98767-E607-A1E7-908B-B7FF7F74F57B</DocumentID>
+	<Name>C4D98767-E607-A1E7-908B-B7FF7F74F57B</Name>
+	<Description>Two Way</Description>
+	<CreatedBy>svtuser</CreatedBy>
+	<CreationDate>2017-05-26T16:18:23.86</CreationDate>
+	<Notes/>
+	<Text>Two Way</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="C4D98767-E607-A1E7-908B-B7FF7F74757B"
+		/>
+	</TextIdentifier>
+</TranslatedText>

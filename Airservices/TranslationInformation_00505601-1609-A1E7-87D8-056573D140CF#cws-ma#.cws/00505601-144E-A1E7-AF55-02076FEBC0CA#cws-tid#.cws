@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-144E-A1E7-AF55-02076FEC00CA">
+	<DocumentID>00505601-144E-A1E7-AF55-02076FEBC0CA</DocumentID>
+	<Name>00505601-144E-A1E7-AF55-02076FEBC0CA</Name>
+	<Description>ReadNewBooking</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-10-30T09:27:13.955</CreationDate>
+	<Notes/>
+	<DefaultText>ReadNewBooking</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-144E-A1E7-AF55-02076FEC40CA"
+		/>
+	</Translations>
+</TextIdentifier>

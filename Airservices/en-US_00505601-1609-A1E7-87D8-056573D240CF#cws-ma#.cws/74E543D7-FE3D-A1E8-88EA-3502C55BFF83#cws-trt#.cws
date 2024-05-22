@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="74E543D7-FE3D-A1E8-88EA-3502C55C3F83">
+	<DocumentID>74E543D7-FE3D-A1E8-88EA-3502C55BFF83</DocumentID>
+	<Name>74E543D7-FE3D-A1E8-88EA-3502C55BFF83</Name>
+	<Description>Created By</Description>
+	<CreatedBy>Alapati Siva Kumar</CreatedBy>
+	<CreationDate>2018-03-09T14:57:56.372</CreationDate>
+	<Notes/>
+	<Text>Created By</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="74E543D7-FE3D-A1E8-88EA-3502C55B7F83"
+		/>
+	</TextIdentifier>
+</TranslatedText>

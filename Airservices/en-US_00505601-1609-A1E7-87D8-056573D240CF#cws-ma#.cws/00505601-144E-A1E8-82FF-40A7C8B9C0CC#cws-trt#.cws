@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E8-82FF-40A7C8BA00CC">
+	<DocumentID>00505601-144E-A1E8-82FF-40A7C8B9C0CC</DocumentID>
+	<Name>00505601-144E-A1E8-82FF-40A7C8B9C0CC</Name>
+	<Description>Calculate InboundFlight Price</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-02-08T04:08:06.487</CreationDate>
+	<Notes/>
+	<Text>Calculate InboundFlight Price</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E8-82FF-40A7C8B940CC"
+		/>
+	</TextIdentifier>
+</TranslatedText>

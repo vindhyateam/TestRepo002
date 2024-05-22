@@ -1,0 +1,19 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="C4D98767-E60B-A1E7-917D-BE1EBC759FD6">
+	<DocumentID>C4D98767-E60B-A1E7-917D-BE1EBC755FD6</DocumentID>
+	<Name>SAS</Name>
+	<Description>SAS</Description>
+	<CreatedBy>svtuser</CreatedBy>
+	<CreationDate>2017-05-31T11:52:02.635</CreationDate>
+	<Notes/>
+	<referenceCount>1</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="C4D98767-E607-A1E7-908C-1A771FB7357B"
+		/>
+	</BuildingBlock>
+	<Original/>
+</Category>

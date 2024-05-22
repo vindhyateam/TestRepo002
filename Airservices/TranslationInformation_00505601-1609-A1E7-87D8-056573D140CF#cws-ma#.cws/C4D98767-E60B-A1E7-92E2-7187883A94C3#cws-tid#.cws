@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="C4D98767-E60B-A1E7-92E2-7187883AD4C3">
+	<DocumentID>C4D98767-E60B-A1E7-92E2-7187883A94C3</DocumentID>
+	<Name>C4D98767-E60B-A1E7-92E2-7187883A94C3</Name>
+	<Description>Set AirCraftID_2</Description>
+	<CreatedBy>svtuser</CreatedBy>
+	<CreationDate>2017-06-07T14:20:56.569</CreationDate>
+	<Notes/>
+	<DefaultText>Set AirCraftID_2</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="C4D98767-E60B-A1E7-92E2-7187883B14C3"
+		/>
+	</Translations>
+</TextIdentifier>

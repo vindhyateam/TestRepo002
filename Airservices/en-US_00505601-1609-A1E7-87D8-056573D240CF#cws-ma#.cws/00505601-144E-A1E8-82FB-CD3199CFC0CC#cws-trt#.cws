@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E8-82FB-CD3199D000CC">
+	<DocumentID>00505601-144E-A1E8-82FB-CD3199CFC0CC</DocumentID>
+	<Name>00505601-144E-A1E8-82FB-CD3199CFC0CC</Name>
+	<Description>Hide/Show InboundFlight</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-02-07T10:34:15.039</CreationDate>
+	<Notes/>
+	<Text>Hide/Show InboundFlight</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E8-82FB-CD3199CF40CC"
+		/>
+	</TextIdentifier>
+</TranslatedText>

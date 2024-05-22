@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E7-B375-C11BD54340CB">
+	<DocumentID>00505601-144E-A1E7-B375-C11BD54300CB</DocumentID>
+	<Name>00505601-144E-A1E7-B375-C11BD54300CB</Name>
+	<Description>PayNow</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-11-20T10:13:41.316</CreationDate>
+	<Notes/>
+	<Text>PayNow</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E7-B375-C11BD54280CB"
+		/>
+	</TextIdentifier>
+</TranslatedText>

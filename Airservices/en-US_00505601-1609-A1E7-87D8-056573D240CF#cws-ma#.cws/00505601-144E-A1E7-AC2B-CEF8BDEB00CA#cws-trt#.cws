@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E7-AC2B-CEF8BDEB40CA">
+	<DocumentID>00505601-144E-A1E7-AC2B-CEF8BDEB00CA</DocumentID>
+	<Name>00505601-144E-A1E7-AC2B-CEF8BDEB00CA</Name>
+	<Description>Luggage List</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-10-14T08:25:06.089</CreationDate>
+	<Notes/>
+	<Text>Luggage List</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E7-AC2B-CEF8BDEA80CA"
+		/>
+	</TextIdentifier>
+</TranslatedText>

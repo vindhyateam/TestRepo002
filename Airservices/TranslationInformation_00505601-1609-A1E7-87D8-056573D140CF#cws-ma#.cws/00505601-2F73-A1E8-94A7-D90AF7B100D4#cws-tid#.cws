@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-2F73-A1E8-94A7-D90AF7B140D4">
+	<DocumentID>00505601-2F73-A1E8-94A7-D90AF7B100D4</DocumentID>
+	<Name>00505601-2F73-A1E8-94A7-D90AF7B100D4</Name>
+	<Description>TimetoFly</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-05-08T09:10:46.378</CreationDate>
+	<Notes/>
+	<DefaultText>TimetoFly</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-2F73-A1E8-94A7-D90AF7B180D4"
+		/>
+	</Translations>
+</TextIdentifier>

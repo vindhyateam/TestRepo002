@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1DB4-A1E7-ABD1-6FCC3340C0D8">
+	<DocumentID>00505601-1DB4-A1E7-ABD1-6FCC334080D8</DocumentID>
+	<Name>00505601-1DB4-A1E7-ABD1-6FCC334080D8</Name>
+	<Description>Create_Dummy</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-10-12T12:23:23.351</CreationDate>
+	<Notes/>
+	<Text>Create_Dummy</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1DB4-A1E7-ABD1-6FCC334000D8"
+		/>
+	</TextIdentifier>
+</TranslatedText>

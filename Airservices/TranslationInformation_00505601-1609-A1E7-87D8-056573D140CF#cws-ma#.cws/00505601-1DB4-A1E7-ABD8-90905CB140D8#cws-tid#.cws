@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-1DB4-A1E7-ABD8-90905CB180D8">
+	<DocumentID>00505601-1DB4-A1E7-ABD8-90905CB140D8</DocumentID>
+	<Name>00505601-1DB4-A1E7-ABD8-90905CB140D8</Name>
+	<Description>Dependent</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-10-12T15:58:02.419</CreationDate>
+	<Notes/>
+	<DefaultText>Dependent</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-1DB4-A1E7-ABD8-90905CB1C0D8"
+		/>
+	</Translations>
+</TextIdentifier>

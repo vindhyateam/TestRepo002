@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1549-A1E8-A2CD-E7AF5D1F2C73">
+	<DocumentID>00505601-1549-A1E8-A2CD-E7AF5D1EEC73</DocumentID>
+	<Name>00505601-1549-A1E8-A2CD-E7AF5D1EEC73</Name>
+	<Description/>
+	<CreatedBy>alapatik</CreatedBy>
+	<CreationDate>2018-07-19T09:40:00.597</CreationDate>
+	<Notes/>
+	<Text>Last completed activity flow</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1549-A1E8-A2CD-E7AF5D1F6C73"
+		/>
+	</TextIdentifier>
+</TranslatedText>

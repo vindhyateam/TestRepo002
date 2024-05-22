@@ -1,0 +1,27 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-1609-A1E7-8805-3639516F40CF">
+	<DocumentID>00505601-1609-A1E7-8805-3639516F00CF</DocumentID>
+	<Name>00505601-1609-A1E7-8805-3639516F00CF</Name>
+	<Description>AirCrafts List</Description>
+	<CreatedBy>svtuser</CreatedBy>
+	<CreationDate>2017-04-13T06:47:01.098</CreationDate>
+	<Notes/>
+	<DefaultText>AirCrafts List</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-1609-A1E7-8805-3639516F80CF"
+		/>
+		<uri
+			id="00505601-2F77-A1E8-9D11-9DFFE865510E"
+		/>
+	</Translations>
+</TextIdentifier>

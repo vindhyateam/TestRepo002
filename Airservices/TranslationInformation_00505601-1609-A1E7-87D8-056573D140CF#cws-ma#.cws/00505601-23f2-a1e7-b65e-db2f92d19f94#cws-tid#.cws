@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-23f2-a1e7-b65e-db2f92e31f94">
+	<DocumentID>00505601-23f2-a1e7-b65e-db2f92d19f94</DocumentID>
+	<Name>00505601-23f2-a1e7-b65e-db2f92d19f94</Name>
+	<Description>MyBookings Actionbar</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-12-05T09:55:57.032</CreationDate>
+	<Notes/>
+	<DefaultText>MyBookings Actionbar</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-23f2-a1e7-b65e-db2f92f71f94"
+		/>
+	</Translations>
+</TextIdentifier>

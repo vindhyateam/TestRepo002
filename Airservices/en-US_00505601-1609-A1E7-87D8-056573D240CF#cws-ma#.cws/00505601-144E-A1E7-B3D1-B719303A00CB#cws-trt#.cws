@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E7-B3D1-B719303A40CB">
+	<DocumentID>00505601-144E-A1E7-B3D1-B719303A00CB</DocumentID>
+	<Name>00505601-144E-A1E7-B3D1-B719303A00CB</Name>
+	<Description>CathayLogoS</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-11-22T06:42:46.101</CreationDate>
+	<Notes/>
+	<Text>CathayLogoS</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E7-B3D1-B719303980CB"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2F73-A1E8-8C2F-F8A557B140CA">
+	<DocumentID>00505601-2F73-A1E8-8C2F-F8A557B100CA</DocumentID>
+	<Name>00505601-2F73-A1E8-8C2F-F8A557B100CA</Name>
+	<Description>Case instance ID</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-03-26T06:36:01.027</CreationDate>
+	<Notes/>
+	<Text>Case instance ID</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2F73-A1E8-8C2F-F8A557B080CA"
+		/>
+	</TextIdentifier>
+</TranslatedText>

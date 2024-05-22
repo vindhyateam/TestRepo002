@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2F73-A1E8-8ACD-D9F71CA8C0C9">
+	<DocumentID>00505601-2F73-A1E8-8ACD-D9F71CA880C9</DocumentID>
+	<Name>00505601-2F73-A1E8-8ACD-D9F71CA880C9</Name>
+	<Description>Card is Invalid</Description>
+	<CreatedBy>alapatik@otds.admin</CreatedBy>
+	<CreationDate>2018-03-20T05:57:35.137</CreationDate>
+	<Notes/>
+	<Text>Card is Invalid</Text>
+	<Language>
+		<uri
+			id="00505601-144E-A1E7-A715-8E5D787D80C7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2F73-A1E8-8ACD-D9F71CA800C9"
+		/>
+	</TextIdentifier>
+</TranslatedText>

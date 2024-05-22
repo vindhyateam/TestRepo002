@@ -1,0 +1,33 @@
+
+<InstanceRole
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.instancerole.InstanceRole"
+	RuntimeDocumentID="00505601-3E3A-A1E9-8985-26DBD0E0910C">
+	<DocumentID>00505601-3E3A-A1E9-8985-26DBD0E0510C</DocumentID>
+	<Name>AvionicsEngineer</Name>
+	<Description>AvionicsEngineer</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2019-02-01T11:44:24.389</CreationDate>
+	<Notes/>
+	<ExposeForReuse>false</ExposeForReuse>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="00505601-3E3A-A1E9-8985-26DBD0DE110C">
+			<DocumentID>00505601-3E3A-A1E9-8985-26DBD0DDD10C</DocumentID>
+			<Name>00505601-3E3A-A1E9-8985-26DBD0DDD10C</Name>
+			<Description>00505601-3E3A-A1E9-8985-26DBD0DDD10C</Description>
+			<CreatedBy>Alapati SivaKumar</CreatedBy>
+			<CreationDate>2019-02-01T11:44:24.389</CreationDate>
+			<Notes/>
+			<DeveloperText>AvionicsEngineer</DeveloperText>
+			<Identifier>
+				<uri
+					id="00505601-3E3A-A1E9-8985-26DBD0DE510C"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<IncludedRoles/>
+</InstanceRole>

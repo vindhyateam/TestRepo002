@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E8-85EE-931644B480CD">
+	<DocumentID>00505601-144E-A1E8-85EE-931644B440CD</DocumentID>
+	<Name>00505601-144E-A1E8-85EE-931644B440CD</Name>
+	<Description>On Time</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-02-22T10:34:19.354</CreationDate>
+	<Notes/>
+	<Text>On Time</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E8-85EE-931644B3C0CD"
+		/>
+	</TextIdentifier>
+</TranslatedText>

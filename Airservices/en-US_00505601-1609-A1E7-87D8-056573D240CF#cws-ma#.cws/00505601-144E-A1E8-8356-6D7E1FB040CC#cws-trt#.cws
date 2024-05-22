@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E8-8356-6D7E1FB080CC">
+	<DocumentID>00505601-144E-A1E8-8356-6D7E1FB040CC</DocumentID>
+	<Name>00505601-144E-A1E8-8356-6D7E1FB040CC</Name>
+	<Description>AirportNames</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-02-09T05:26:11.422</CreationDate>
+	<Notes/>
+	<Text>AirportNames</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E8-8356-6D7E1FAFC0CC"
+		/>
+	</TextIdentifier>
+</TranslatedText>

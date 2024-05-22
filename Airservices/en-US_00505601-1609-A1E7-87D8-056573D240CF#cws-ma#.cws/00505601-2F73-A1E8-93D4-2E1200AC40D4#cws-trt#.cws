@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-2F73-A1E8-93D4-2E1200AC80D4">
+	<DocumentID>00505601-2F73-A1E8-93D4-2E1200AC40D4</DocumentID>
+	<Name>00505601-2F73-A1E8-93D4-2E1200AC40D4</Name>
+	<Description>Aircraft Model</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-05-04T06:36:21.542</CreationDate>
+	<Notes/>
+	<Text>Aircraft Model</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-2F73-A1E8-93D4-2E1200ABC0D4"
+		/>
+	</TextIdentifier>
+</TranslatedText>

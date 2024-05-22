@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-144E-A1E7-AC90-5FD8DD8300CA">
+	<DocumentID>00505601-144E-A1E7-AC90-5FD8DD82C0CA</DocumentID>
+	<Name>00505601-144E-A1E7-AC90-5FD8DD82C0CA</Name>
+	<Description>PriceBreakdown</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-10-16T07:20:15.173</CreationDate>
+	<Notes/>
+	<DefaultText>PriceBreakdown</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-144E-A1E7-AC90-5FD8DD8340CA"
+		/>
+	</Translations>
+</TextIdentifier>

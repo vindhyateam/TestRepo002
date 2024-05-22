@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E8-86BD-63F7DCC580CD">
+	<DocumentID>00505601-144E-A1E8-86BD-63F7DCC540CD</DocumentID>
+	<Name>00505601-144E-A1E8-86BD-63F7DCC540CD</Name>
+	<Description>UpdateAircraftStatus</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-02-26T13:35:45.686</CreationDate>
+	<Notes/>
+	<Text>UpdateAircraftStatus</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E8-86BE-71B5D8F000CD"
+		/>
+	</TextIdentifier>
+</TranslatedText>

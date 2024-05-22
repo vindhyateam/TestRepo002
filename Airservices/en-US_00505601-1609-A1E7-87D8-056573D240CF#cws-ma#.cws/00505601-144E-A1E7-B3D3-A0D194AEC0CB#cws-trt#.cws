@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E7-B3D3-A0D194AF00CB">
+	<DocumentID>00505601-144E-A1E7-B3D3-A0D194AEC0CB</DocumentID>
+	<Name>00505601-144E-A1E7-B3D3-A0D194AEC0CB</Name>
+	<Description>BOARDING PASS</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-11-22T06:42:46.101</CreationDate>
+	<Notes/>
+	<Text>BOARDING PASS</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E7-B3D3-A0D194AE40CB"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="0242ac13-0004-a1ea-993b-d5d3788bb69c">
+	<DocumentID>0242ac13-0004-a1ea-993b-d5d37868b69c</DocumentID>
+	<Name>0242ac13-0004-a1ea-993b-d5d37868b69c</Name>
+	<Description>Solution Variables</Description>
+	<CreatedBy>Administrator</CreatedBy>
+	<CreationDate>2020-03-13T06:01:19.985</CreationDate>
+	<Notes/>
+	<Text>Solution Variables</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="0242ac13-0004-a1ea-993b-d5d37820369c"
+		/>
+	</TextIdentifier>
+</TranslatedText>

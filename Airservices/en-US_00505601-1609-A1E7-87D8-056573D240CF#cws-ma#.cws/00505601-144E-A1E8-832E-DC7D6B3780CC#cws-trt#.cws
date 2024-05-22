@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E8-832E-DC7D6B37C0CC">
+	<DocumentID>00505601-144E-A1E8-832E-DC7D6B3780CC</DocumentID>
+	<Name>00505601-144E-A1E8-832E-DC7D6B3780CC</Name>
+	<Description>RemoveFromSelectPassengers</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-02-08T11:32:45.076</CreationDate>
+	<Notes/>
+	<Text>RemoveFromSelectPassengers</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E8-832E-DC7D6B3700CC"
+		/>
+	</TextIdentifier>
+</TranslatedText>

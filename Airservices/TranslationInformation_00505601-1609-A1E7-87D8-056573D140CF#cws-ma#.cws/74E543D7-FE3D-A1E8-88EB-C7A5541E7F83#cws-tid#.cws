@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="74E543D7-FE3D-A1E8-88EB-C7A5541EBF83">
+	<DocumentID>74E543D7-FE3D-A1E8-88EB-C7A5541E7F83</DocumentID>
+	<Name>74E543D7-FE3D-A1E8-88EB-C7A5541E7F83</Name>
+	<Description>See Detail History</Description>
+	<CreatedBy>Alapati Siva Kumar</CreatedBy>
+	<CreationDate>2018-03-09T15:44:53.43</CreationDate>
+	<Notes/>
+	<DefaultText>See Detail History</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="74E543D7-FE3D-A1E8-88EB-C7A5541EFF83"
+		/>
+	</Translations>
+</TextIdentifier>

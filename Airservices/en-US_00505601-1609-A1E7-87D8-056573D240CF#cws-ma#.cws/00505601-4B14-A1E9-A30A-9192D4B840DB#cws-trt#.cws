@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-4B14-A1E9-A30A-9192D4B880DB">
+	<DocumentID>00505601-4B14-A1E9-A30A-9192D4B840DB</DocumentID>
+	<Name>00505601-4B14-A1E9-A30A-9192D4B840DB</Name>
+	<Description>Show flights</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2019-06-11T09:35:58.738</CreationDate>
+	<Notes/>
+	<Text>Show flights</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-4B14-A1E9-A30A-9192D4B7C0DB"
+		/>
+	</TextIdentifier>
+</TranslatedText>

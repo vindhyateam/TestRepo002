@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-23f2-a1e7-bab2-e23561f2a8d3">
+	<DocumentID>00505601-23f2-a1e7-bab2-e23561e8a8d3</DocumentID>
+	<Name>00505601-23f2-a1e7-bab2-e23561e8a8d3</Name>
+	<Description>AirCraft Image</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-12-27T06:06:18.152</CreationDate>
+	<Notes/>
+	<Text>AirCraft Image</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-23f2-a1e7-bab2-e23561d228d3"
+		/>
+	</TextIdentifier>
+</TranslatedText>

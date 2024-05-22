@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1DB4-A1E7-9432-4772E74500CE">
+	<DocumentID>00505601-1DB4-A1E7-9432-4772E744C0CE</DocumentID>
+	<Name>00505601-1DB4-A1E7-9432-4772E744C0CE</Name>
+	<Description>Calculate PriceForPassengers</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-06-14T08:11:41.112</CreationDate>
+	<Notes/>
+	<Text>Calculate PriceForPassengers</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1DB4-A1E7-9432-4772E74440CE"
+		/>
+	</TextIdentifier>
+</TranslatedText>

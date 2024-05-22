@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E8-832E-DC7D6B3BC0CC">
+	<DocumentID>00505601-144E-A1E8-832E-DC7D6B3B80CC</DocumentID>
+	<Name>00505601-144E-A1E8-832E-DC7D6B3B80CC</Name>
+	<Description>Delete Passengers</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2018-02-08T11:32:45.076</CreationDate>
+	<Notes/>
+	<Text>Delete Passengers</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E8-832E-DC7D6B3B00CC"
+		/>
+	</TextIdentifier>
+</TranslatedText>

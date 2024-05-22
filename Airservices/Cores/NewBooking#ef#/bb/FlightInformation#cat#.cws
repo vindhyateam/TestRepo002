@@ -1,0 +1,19 @@
+
+<Category
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.category.Category"
+	RuntimeDocumentID="00505601-144E-A1E7-AE8C-3937EC2AC0CA">
+	<DocumentID>00505601-144E-A1E7-AE8C-3937EC2A80CA</DocumentID>
+	<Name>FlightInformation</Name>
+	<Description>FlightInformation</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-10-26T09:56:16.842</CreationDate>
+	<Notes/>
+	<referenceCount>1</referenceCount>
+	<BuildingBlock>
+		<uri
+			id="C4D98767-E607-A1E7-908C-1A771FB7357B"
+		/>
+	</BuildingBlock>
+	<Original/>
+</Category>

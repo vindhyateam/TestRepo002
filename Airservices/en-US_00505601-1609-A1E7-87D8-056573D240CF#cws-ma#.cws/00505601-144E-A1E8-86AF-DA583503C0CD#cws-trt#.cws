@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E8-86AF-DA58350400CD">
+	<DocumentID>00505601-144E-A1E8-86AF-DA583503C0CD</DocumentID>
+	<Name>00505601-144E-A1E8-86AF-DA583503C0CD</Name>
+	<Description>Land</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-02-26T07:48:52.344</CreationDate>
+	<Notes/>
+	<Text>Land</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E8-86AF-DA58350340CD"
+		/>
+	</TextIdentifier>
+</TranslatedText>

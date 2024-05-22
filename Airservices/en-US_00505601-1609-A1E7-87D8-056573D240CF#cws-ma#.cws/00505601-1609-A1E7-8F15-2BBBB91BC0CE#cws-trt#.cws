@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1609-A1E7-8F15-2BBBB91C00CE">
+	<DocumentID>00505601-1609-A1E7-8F15-2BBBB91BC0CE</DocumentID>
+	<Name>00505601-1609-A1E7-8F15-2BBBB91BC0CE</Name>
+	<Description>wifi</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-05-19T05:35:07.373</CreationDate>
+	<Notes/>
+	<Text>wifi</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1609-A1E7-8F15-2BBBB91B40CE"
+		/>
+	</TextIdentifier>
+</TranslatedText>

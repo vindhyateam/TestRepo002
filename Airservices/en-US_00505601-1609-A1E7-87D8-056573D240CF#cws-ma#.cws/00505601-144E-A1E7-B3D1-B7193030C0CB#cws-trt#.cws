@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E7-B3D1-B719303100CB">
+	<DocumentID>00505601-144E-A1E7-B3D1-B7193030C0CB</DocumentID>
+	<Name>00505601-144E-A1E7-B3D1-B7193030C0CB</Name>
+	<Description>CathayPacificAirwaysLogo-s</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-11-22T06:42:46.101</CreationDate>
+	<Notes/>
+	<Text>CathayPacificAirwaysLogo-s</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E7-B3D1-B719303040CB"
+		/>
+	</TextIdentifier>
+</TranslatedText>

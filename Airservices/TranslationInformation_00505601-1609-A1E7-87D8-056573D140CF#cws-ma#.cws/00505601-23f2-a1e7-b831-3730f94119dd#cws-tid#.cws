@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-23f2-a1e7-b831-3730f95799dd">
+	<DocumentID>00505601-23f2-a1e7-b831-3730f94119dd</DocumentID>
+	<Name>00505601-23f2-a1e7-b831-3730f94119dd</Name>
+	<Description>Book Now to Get 20% off</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-12-15T09:32:26.206</CreationDate>
+	<Notes/>
+	<DefaultText>Book Now to Get 20% off</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-23f2-a1e7-b831-3730f97a99dd"
+		/>
+	</Translations>
+</TextIdentifier>

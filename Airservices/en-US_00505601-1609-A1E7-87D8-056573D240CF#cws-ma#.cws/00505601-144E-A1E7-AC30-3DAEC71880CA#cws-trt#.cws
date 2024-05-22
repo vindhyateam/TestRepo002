@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E7-AC30-3DAEC718C0CA">
+	<DocumentID>00505601-144E-A1E7-AC30-3DAEC71880CA</DocumentID>
+	<Name>00505601-144E-A1E7-AC30-3DAEC71880CA</Name>
+	<Description>Available AirServices</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-10-14T10:51:47.03</CreationDate>
+	<Notes/>
+	<Text>Available AirServices</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E7-AC30-3DAEC71800CA"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,33 @@
+
+<InstanceRole
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.instancerole.InstanceRole"
+	RuntimeDocumentID="00505601-3E3A-A1E9-8A4A-2942D950D10E">
+	<DocumentID>00505601-3E3A-A1E9-8A4A-2942D950910E</DocumentID>
+	<Name>TicketAgent</Name>
+	<Description>TicketAgent</Description>
+	<CreatedBy>Administrator</CreatedBy>
+	<CreationDate>2019-02-05T09:32:14.373</CreationDate>
+	<Notes/>
+	<ExposeForReuse>false</ExposeForReuse>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="00505601-3E3A-A1E9-8A4A-2942D94E110E">
+			<DocumentID>00505601-3E3A-A1E9-8A4A-2942D94DD10E</DocumentID>
+			<Name>00505601-3E3A-A1E9-8A4A-2942D94DD10E</Name>
+			<Description>00505601-3E3A-A1E9-8A4A-2942D94DD10E</Description>
+			<CreatedBy>Administrator</CreatedBy>
+			<CreationDate>2019-02-05T09:32:14.373</CreationDate>
+			<Notes/>
+			<DeveloperText>Ticket Agent</DeveloperText>
+			<Identifier>
+				<uri
+					id="00505601-3E3A-A1E9-8A4A-2942D94E510E"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<IncludedRoles/>
+</InstanceRole>

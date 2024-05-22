@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-23f2-a1e7-b598-9d4975be2d57">
+	<DocumentID>00505601-23f2-a1e7-b598-9d4975af2d57</DocumentID>
+	<Name>00505601-23f2-a1e7-b598-9d4975af2d57</Name>
+	<Description>Enter 3 digit airport code of Destination</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-12-01T07:31:25.006</CreationDate>
+	<Notes/>
+	<Text>Enter 3 digit airport code of Destination</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-23f2-a1e7-b598-9d497589ad57"
+		/>
+	</TextIdentifier>
+</TranslatedText>

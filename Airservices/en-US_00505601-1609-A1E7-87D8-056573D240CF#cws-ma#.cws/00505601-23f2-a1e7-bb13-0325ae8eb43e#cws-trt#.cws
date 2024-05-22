@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-23f2-a1e7-bb13-0325aeb1b43e">
+	<DocumentID>00505601-23f2-a1e7-bb13-0325ae8eb43e</DocumentID>
+	<Name>00505601-23f2-a1e7-bb13-0325ae8eb43e</Name>
+	<Description>Price-InformationAlert</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-12-29T05:12:49.203</CreationDate>
+	<Notes/>
+	<Text>Price-InformationAlert</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-23f2-a1e7-bb13-0325ae7ab43e"
+		/>
+	</TextIdentifier>
+</TranslatedText>

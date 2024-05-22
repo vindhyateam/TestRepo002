@@ -1,0 +1,18 @@
+
+<EmailConfig
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.services.emailconfig.EmailConfig"
+	RuntimeDocumentID="00505601-23f2-a1e7-b78b-970ea021274a">
+	<DocumentID>00505601-23f2-a1e7-b78b-970ea00fa74a</DocumentID>
+	<Name>AirserviceEmailConfig</Name>
+	<Description>Airservice EmailConfig</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-12-11T05:54:55.404</CreationDate>
+	<Notes/>
+	<EmailProfileUserID></EmailProfileUserID>
+	<EnableDefault>false</EnableDefault>
+	<From></From>
+	<FromDisplayName></FromDisplayName>
+	<ReplyTo></ReplyTo>
+	<DisplayName/>
+</EmailConfig>

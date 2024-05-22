@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1DB4-A1E7-9436-546FC8A580CE">
+	<DocumentID>00505601-1DB4-A1E7-9436-546FC8A540CE</DocumentID>
+	<Name>00505601-1DB4-A1E7-9436-546FC8A540CE</Name>
+	<Description>Total Price/ per</Description>
+	<CreatedBy>siva</CreatedBy>
+	<CreationDate>2017-06-15T06:35:28.558</CreationDate>
+	<Notes/>
+	<Text>Total Price/ per</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1DB4-A1E7-9436-546FC8A4C0CE"
+		/>
+	</TextIdentifier>
+</TranslatedText>

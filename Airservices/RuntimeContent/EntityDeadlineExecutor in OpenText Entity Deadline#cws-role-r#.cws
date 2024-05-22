@@ -1,0 +1,37 @@
+
+<RoleRuntime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleRuntime"
+	typeVersion="0019B981-E9E3-11DF-FAD3-F797D376BD43"
+	RuntimeDocumentID="00505601-144E-A1E9-ACDB-8FE278A200D5">
+	<DocumentID>00505601-144E-A1E9-ACDB-8FE278A1C0D5</DocumentID>
+	<Name>EntityDeadlineExecutor in OpenText Entity Deadline</Name>
+	<Description>Entity Deadline Executor</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2019-07-31T09:41:06.602</CreationDate>
+	<Notes/>
+	<BinaryReferenceInfo></BinaryReferenceInfo>
+	<CommonName>EntityDeadlineExecutor</CommonName>
+	<DistinguishedName>cn=EntityDeadlineExecutor,cn=OpenText Entity Deadline,cn=cordys,cn=defaultInst,o=bpmdomain.local</DistinguishedName>
+	<ISVPName></ISVPName>
+	<type>Functional</type>
+	<PackageInformation>
+		<CordysBinaryReferenceCAPInfo
+			type="com.cordys.cws.binaryreference.CordysBinaryReferenceCAPInfo"
+			RuntimeDocumentID="00505601-144E-A1E9-ACDB-8FE278A180D5">
+			<DocumentID>00505601-144E-A1E9-ACDB-8FE278A140D5</DocumentID>
+			<Name>Untitled CordysBinaryReferenceCAPInfo</Name>
+			<Description>Untitled CordysBinaryReferenceCAPInfo</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2019-07-31T09:41:06.602</CreationDate>
+			<Notes/>
+			<ArtifactID>C4D9874E-DCBF-A1E7-A5B4-7307B094F261</ArtifactID>
+			<CAPID>3417ebb0-5d95-11e6-e65b-a599848a175d</CAPID>
+			<CAPName>OpenText Entity Deadline</CAPName>
+			<CAPVersion>ver16.6.1build31.376363</CAPVersion>
+		</CordysBinaryReferenceCAPInfo>
+	</PackageInformation>
+	<Subroles/>
+	<Superroles/>
+	<configuredTasks/>
+</RoleRuntime>

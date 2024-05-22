@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="C4D98767-E60B-A1E7-92B1-F53D27F0C820">
+	<DocumentID>C4D98767-E60B-A1E7-92B1-F53D27F08820</DocumentID>
+	<Name>C4D98767-E60B-A1E7-92B1-F53D27F08820</Name>
+	<Description>Background_Squares</Description>
+	<CreatedBy>svtuser</CreatedBy>
+	<CreationDate>2017-06-06T15:35:00.708</CreationDate>
+	<Notes/>
+	<DefaultText>Background_Squares</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="C4D98767-E60B-A1E7-92B1-F53D27F10820"
+		/>
+	</Translations>
+</TextIdentifier>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E8-86DF-AFEFCBA4C0CD">
+	<DocumentID>00505601-144E-A1E8-86DF-AFEFCBA480CD</DocumentID>
+	<Name>00505601-144E-A1E8-86DF-AFEFCBA480CD</Name>
+	<Description>Structural Integrity Checks</Description>
+	<CreatedBy>Alapati SivaKumar</CreatedBy>
+	<CreationDate>2018-02-27T05:38:19.548</CreationDate>
+	<Notes/>
+	<Text>Structural Integrity Checks</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E8-86DF-AFEFCBA400CD"
+		/>
+	</TextIdentifier>
+</TranslatedText>

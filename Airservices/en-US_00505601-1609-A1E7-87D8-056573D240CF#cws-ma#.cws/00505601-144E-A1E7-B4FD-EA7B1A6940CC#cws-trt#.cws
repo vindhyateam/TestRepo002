@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-144E-A1E7-B4FD-EA7B1A6980CC">
+	<DocumentID>00505601-144E-A1E7-B4FD-EA7B1A6940CC</DocumentID>
+	<Name>00505601-144E-A1E7-B4FD-EA7B1A6940CC</Name>
+	<Description>ToDo Actions</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2017-11-28T05:35:40.702</CreationDate>
+	<Notes/>
+	<Text>ToDo Actions</Text>
+	<Language>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D1C0CF"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-144E-A1E7-B4FD-EA7B1A68C0CC"
+		/>
+	</TextIdentifier>
+</TranslatedText>

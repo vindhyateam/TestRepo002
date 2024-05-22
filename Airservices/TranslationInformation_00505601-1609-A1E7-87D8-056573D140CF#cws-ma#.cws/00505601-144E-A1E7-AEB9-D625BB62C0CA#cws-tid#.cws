@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-144E-A1E7-AEB9-D625BB6300CA">
+	<DocumentID>00505601-144E-A1E7-AEB9-D625BB62C0CA</DocumentID>
+	<Name>00505601-144E-A1E7-AEB9-D625BB62C0CA</Name>
+	<Description>bloggif_59f30e99be9a8</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-10-27T10:57:32.289</CreationDate>
+	<Notes/>
+	<DefaultText>bloggif_59f30e99be9a8</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1609-A1E7-87D8-056573D0C0CF"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-144E-A1E7-AEB9-D625BB6340CA"
+		/>
+	</Translations>
+</TextIdentifier>

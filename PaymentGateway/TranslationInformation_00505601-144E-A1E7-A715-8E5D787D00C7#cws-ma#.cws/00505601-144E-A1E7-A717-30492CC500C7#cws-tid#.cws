@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-144E-A1E7-A717-30492CC540C7">
+	<DocumentID>00505601-144E-A1E7-A717-30492CC500C7</DocumentID>
+	<Name>00505601-144E-A1E7-A717-30492CC500C7</Name>
+	<Description>CardNo2</Description>
+	<CreatedBy>administrator</CreatedBy>
+	<CreationDate>2017-09-18T10:39:25.903</CreationDate>
+	<Notes/>
+	<DefaultText>CardNo2</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-144E-A1E7-A715-8E5D787C80C7"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-144E-A1E7-A717-30492CC580C7"
+		/>
+	</Translations>
+</TextIdentifier>
